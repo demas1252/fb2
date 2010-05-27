@@ -1,0 +1,2064 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+<description>
+<title-info>
+<genre>sf_action</genre>
+<author>
+<first-name/>
+<last-name/>
+</author>
+<book-title>español</book-title>
+<lang>ru</lang>
+</title-info>
+<document-info>
+<author>
+<first-name/>
+<last-name/>
+</author>
+<program-used>ExportToFB21</program-used>
+<date value="2010-05-27">27.05.2010</date>
+<id>OOoFBTools-2010-5-27-15-49-48-994</id>
+<version>1.0</version>
+</document-info>
+</description>
+<body>
+<section>
+<title>
+<p>Фонетика</p>
+</title>
+<section>
+<title>
+<p>Звуки</p>
+</title>
+<empty-line/>
+<p>[i] - и (ива) </p>
+<p>[e] - э (жест) </p>
+<p>[a] - a (папа) </p>
+<p>[o] - o </p>
+<p>[u] - у </p>
+<empty-line/>
+<p>[p] - п (папа) </p>
+<p>[m] - м </p>
+<p>[f] - ф </p>
+<p>[t] - т (но есть особенности артикуляции) </p>
+<p>[n] - н (но есть особенности артикуляции) </p>
+<p>      *n p* - читается как *m p* (un pino) </p>
+<p>[k] - k </p>
+<p>	c перед a, o, u, согласными и в конце слова </p>
+<p>        qu перед i, e </p>
+<p>	k в словах иностранного происхождения </p>
+<p>[b] - б (бант) </p>
+<p>   	в начале слова после паузы </p>
+<p>	в начале и середине слова после m и n </p>
+<p>	boca, invito, un vote </p>
+<p>[l] - л (как то он мягче произносится) </p>
+<p>[s] - с </p>
+<p>[r] - р (краткий) </p>
+<p>[d] - д (дума) </p>
+<p>[rr] - раскатистый долгий r </p>
+<p>	r - в начале слова </p>
+<p>	внутри слова после букв n, l, s </p>
+<p>	rr между двумя гласными </p>
+<p>[~n] - нямкающий н </p>
+<p>[ll] - йь </p>
+<p>[ch] — ч </p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Буквы</p>
+</title>
+<empty-line/>
+<p>• c</p>
+<p>• 'k' перед a, o, u (carta, color, cuaderno)</p>
+<p>• 'th' (ce) перед e и i (cenicero, cielo=</p>
+<p>• r</p>
+<p>• [R] — в начале слова, после l и n, когда двойная (Ramón, alrededor, Enrique, perro)</p>
+<p>• [r] — в остальных случаях (caro)</p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Ударение</p>
+</title>
+<empty-line/>
+<p>• оканчивающеся на гласный и согласные n, s - на предпоследнем слове </p>
+<p>• оканчивающееся на согласный (кроме n, s) - на последний</p>
+<empty-line/>
+</section>
+</section>
+<section>
+<title>
+<p>Грамматика</p>
+</title>
+<section>
+<title>
+<p>Части речи</p>
+</title>
+<section>
+<title>
+<p>Артикль</p>
+</title>
+<empty-line/>
+<p><strong>Определенный артикль</strong></p>
+<empty-line/>
+<p id="___DdeLink__432_528922866"><emphasis>муж — el (los)</emphasis></p>
+<p><emphasis>жен — la (las)</emphasis></p>
+<empty-line/>
+<p><strong>Неопределенный артикль</strong></p>
+<empty-line/>
+<p><emphasis>муж — un (unos)</emphasis></p>
+<p><emphasis>жен — una (unas)</emphasis></p>
+<empty-line/>
+<p><strong>Слияние артиклей</strong></p>
+<empty-line/>
+<p><emphasis>a + el → el</emphasis></p>
+<p><emphasis>de + el → del</emphasis></p>
+</section>
+<section>
+<title>
+<p></p>
+<p>Существительное</p>
+</title>
+<section>
+<title>
+<p>Род и число</p>
+</title>
+<empty-line/>
+<p>-o — муж</p>
+<p>-а — жен</p>
+<p>-е  — ???</p>
+<empty-line/>
+</section>
+</section>
+<section>
+<title>
+<p>Местоимения</p>
+</title>
+<section>
+<title>
+<p>Личные местоимения</p>
+</title>
+<empty-line/>
+<p><emphasis>yo - я</emphasis></p>
+<p><emphasis>tú - ты</emphasis></p>
+<p><emphasis>él - он</emphasis></p>
+<p><emphasis>ella - она</emphasis></p>
+<p><emphasis>usted - вы</emphasis></p>
+<empty-line/>
+<p><emphasis>nostros, nostras - мы</emphasis></p>
+<p><emphasis>vostros, vostras - вы</emphasis></p>
+<p><emphasis>ellos — они (муж)</emphasis></p>
+<p><emphasis>ellas — они (жен)</emphasis></p>
+<p><emphasis>ustedes - вы</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Указательные местоимения</p>
+</title>
+<empty-line/>
+<p><strong>Мужской род</strong></p>
+<empty-line/>
+<p><emphasis>этот - este</emphasis></p>
+<p><emphasis>тот - ese</emphasis></p>
+<p><emphasis>тот, который там - aquel</emphasis></p>
+<p><emphasis>эти - estos</emphasis></p>
+<p><emphasis>те - esos</emphasis></p>
+<p><emphasis>те, которые там - aquellos</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p><strong>Женский род</strong></p>
+<empty-line/>
+<p><emphasis>эта - esta</emphasis></p>
+<p><emphasis>та - esa</emphasis></p>
+<p><emphasis>та, который там - aquella</emphasis></p>
+<p><emphasis>эти - estas</emphasis></p>
+<p><emphasis>те - esas</emphasis></p>
+<p><emphasis>те, которые там - aquellas</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Вопросительные местоимения</p>
+</title>
+<empty-line/>
+<p><emphasis>¿Qué? - что (какие) ?</emphasis></p>
+<p><emphasis>¿Quién? ¿Quiénes? - кто? кого?</emphasis></p>
+<p><emphasis>¿De Quién? - чей? чья?</emphasis></p>
+<p><emphasis>¿Cuál? ¿Cuáles? - который? какой?</emphasis></p>
+<empty-line/>
+<p>– <emphasis>¿Qué come Ud.?  (что вы едите)</emphasis></p>
+<p>– <emphasis>¿Quién es Ud.? (кто вы)</emphasis></p>
+<p>– <emphasis>¿De quién es esta pluma? (чья эта ручка)</emphasis></p>
+<p>– <emphasis>¿Cuál de estos trenes va a Valencia? (какой из этих поездов идет до валенсии)</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p><emphasis>Относительные местоимения</emphasis></p>
+</title>
+<empty-line/>
+<p><emphasis>que = который, кто, тот</emphasis></p>
+<p>– <emphasis>Es la chica que cuida a los niños. (Эта девочка, которая присматривает за детьми)</emphasis></p>
+<p>– <emphasis>Es el coche que le conduce (Эта машина, которую он ведет)</emphasis></p>
+<empty-line/>
+<p><emphasis>quien, quienes = который (с предлогом)</emphasis></p>
+<p>– <emphasis>Es el cicho con quien salgo. (Парень, с которым я встречаюсь)</emphasis></p>
+<p>– <emphasis>Es el hombre para quien trabajamos. (Этот человек, на которого мы работаем).</emphasis></p>
+<empty-line/>
+<p><emphasis>El qeu, la que, los que, las que, el cual, la qual, los cuales, las cuales = кем, которым</emphasis></p>
+<p>– <emphasis>La mujer con la que ésta hablando. (Женщина, с которой он говорит)</emphasis></p>
+<p>– <emphasis>Los amigos a los cuales escríbo. (Друзья, которым я пишу).</emphasis></p>
+<empty-line/>
+<p><emphasis>Ser + (местоим или сущ) + (quien, quienes) = выделение голосом</emphasis></p>
+<p>– <emphasis>Es él quien tiene la culpa. (Это он синоват)</emphasis></p>
+<empty-line/>
+<p><emphasis>Cuyo (-a, os, -as) = чей, чья, который</emphasis></p>
+<p>– <emphasis>El hombre cuya hija es actriz. (Мужчина, чья дочь — актриса)</emphasis></p>
+<empty-line/>
+<p><emphasis>Lo que = что; то, что</emphasis></p>
+<p>– <emphasis>No comprendo lo que está diciendo. (Не понимаю того, что он говорит)</emphasis></p>
+<empty-line/>
+<p>Относительное местоимение не может быть пропущено.</p>
+<p>– <emphasis>El libro que lee.  (Книга, которую он читает).</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p><emphasis>Притяжательные местоимения</emphasis></p>
+</title>
+<empty-line/>
+<p><strong>Единственное число</strong></p>
+<empty-line/>
+<p><emphasis>el mío, la mía - мой</emphasis></p>
+<p><emphasis>el tuyo, la tuya - твой</emphasis></p>
+<p><emphasis>el suyo, la suya — ее, его, Ваш</emphasis></p>
+<p><emphasis>el nuestro, la nuestra - наш</emphasis></p>
+<p><emphasis>el vuestro, la vuestra — ваш (друж)</emphasis></p>
+<p><emphasis>el suyo, la suya — их, Ваш (вежл)</emphasis></p>
+<empty-line/>
+<p><strong>Множественное число</strong></p>
+<empty-line/>
+<p><emphasis>los míos, las mías - мой</emphasis></p>
+<p><emphasis>los tuyos, las tuyas - твой</emphasis></p>
+<p><emphasis>los suyos, las suyas — ее, его, Ваш</emphasis></p>
+<p><emphasis>los nuestros, las nuestras - наш</emphasis></p>
+<p><emphasis>los vuestros, las vuestras — ваш (друж)</emphasis></p>
+<p><emphasis>los suyos, las suyas — их, Ваш (вежл)</emphasis></p>
+<empty-line/>
+<p>Обязательно используется определенный артикль, если только не идет глагол <emphasis>ser.</emphasis></p>
+<empty-line/>
+<p>– <emphasis>Mi casa y la tuya.    (Мой дом и твой)</emphasis></p>
+<p>– <emphasis>Estas cartas son nuestras.    (Эти письма — наши)</emphasis></p>
+<empty-line/>
+<p>Используются также в роли прилагаельных, после сущ-х и без артикля:</p>
+<empty-line/>
+<p>– <emphasis>Un amigo mío.  (Мой друг)</emphasis></p>
+<p>– <emphasis>Una idea suya.  (Его идея).</emphasis></p>
+<empty-line/>
+<p>29</p>
+</section>
+<section>
+<title>
+<p><emphasis>Личные местоимения в роли прямого и косвенного дополнения (объектные)</emphasis></p>
+</title>
+<empty-line/>
+<p>Прямые — родительные пажеж — кого?</p>
+<empty-line/>
+<p><emphasis>me - меня</emphasis></p>
+<p><emphasis>te - тебя</emphasis></p>
+<p><emphasis>le — его, Вас (м)</emphasis></p>
+<p><emphasis>la — ее, Вас(ж)</emphasis></p>
+<p><emphasis>lo, la — его, ее  (неодуш)</emphasis></p>
+<p><emphasis>nos - нас</emphasis></p>
+<p><emphasis>os — вас (друж)</emphasis></p>
+<p><emphasis>les — их, вас (вежл м)</emphasis></p>
+<p><emphasis>las — их, вас (вежл ж)</emphasis></p>
+<p><emphasis>los, las — их (неодуш м,ж)</emphasis></p>
+<empty-line/>
+<p>Косвенные — дательный падеж — кому?</p>
+<empty-line/>
+<p><emphasis>me - мне</emphasis></p>
+<p><emphasis>te - тебе</emphasis></p>
+<p><emphasis>le — ему</emphasis></p>
+<p><emphasis>nos - нам</emphasis></p>
+<p><emphasis>os — вам</emphasis></p>
+<p><emphasis>les — им, вам (вежл)</emphasis></p>
+<p>Перед глаголом:</p>
+<empty-line/>
+<p>– <emphasis>Nos ayuda con el trabajo. (он помогает нам по работе)</emphasis></p>
+<p>– <emphasis>Le he escrito una carta. (я написал ему книгу)</emphasis></p>
+<empty-line/>
+<p>Объектное местоимение добавляется к окончанию инфинитивной формы глагола:</p>
+<empty-line/>
+<p>– <emphasis>Tengo que comparlo. (Мне надо купить это)</emphasis></p>
+<p>– <emphasis>Está esparándome.   (Он ждет меня)</emphasis></p>
+<p>– <emphasis>Bébelo.  (Выпей это)</emphasis></p>
+<empty-line/>
+</section>
+</section>
+<section>
+<title>
+<p>Прилагательные</p>
+</title>
+<section>
+<empty-line/>
+<p>• Следуют за существительным</p>
+<p>• Согласованы с существительным в роде и числе:</p>
+<p>• Прилагательное мужского рода (-о) → (-a) в женском роде</p>
+<p>• + s во множественном числе</p>
+<empty-line/>
+<p>– <emphasis>una novela cubana / unas novelas cubanas</emphasis></p>
+<p>– <emphasis>un libro cubano   /  unos libros cubanos </emphasis></p>
+<p>– <emphasis>el coche blanc<strong>o</strong> / la casa blanc<strong>a</strong></emphasis></p>
+<p>– <emphasis>los coches blanc<strong>os</strong> / las casas blanc<strong>as</strong></emphasis></p>
+<p><emphasis><strong></strong></emphasis></p>
+<p>• Прилагательное, оканчивающиеся на (-е) и на согласную имеют одинаковую форму в мужском и среднем роде:</p>
+<empty-line/>
+<p>– <emphasis>el lapiz verd<strong>e</strong> / la pared verd<strong>e</strong></emphasis></p>
+<p>– <emphasis>los lapices verd<strong>es</strong> / las paredes verd<strong>es</strong></emphasis></p>
+<p>• Прилагательное, оканчивающиеся на (-n) или (-or) иногда являются исключениями:</p>
+<p><emphasis><strong></strong></emphasis></p>
+<p>– <emphasis>trabajad<strong>or</strong> / trabajad<strong>ora</strong></emphasis></p>
+<p><emphasis><strong></strong></emphasis></p>
+<p><strong>Прилагательные grande, mucho </strong></p>
+<empty-line/>
+<p>grande может стоять перед существительным, но тераяет de: </p>
+<empty-line/>
+<p><emphasis>un gran mapa </emphasis></p>
+<empty-line/>
+<p>mucho согласуется в роде и числе с существительным: </p>
+<empty-line/>
+<p><emphasis>Benito compra muchos libros y lee muchas revistas. </emphasis></p>
+<empty-line/>
+<p>С mucho артикль не нужен.</p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p><emphasis>Притяжательные прилагательные</emphasis></p>
+</title>
+<empty-line/>
+<p><strong>Единственное число</strong></p>
+<empty-line/>
+<p><emphasis>mi - мой</emphasis></p>
+<p><emphasis>tu - твой</emphasis></p>
+<p><emphasis>su — ее, его, Ваш</emphasis></p>
+<p><emphasis>nuestro(-a) - наш</emphasis></p>
+<p><emphasis>vuestro(-a) — ваш (друж)</emphasis></p>
+<p><emphasis>su — их, Ваш (вежл)</emphasis></p>
+<empty-line/>
+<p><strong>Множественное число</strong></p>
+<empty-line/>
+<p><emphasis>mis - мой</emphasis></p>
+<p><emphasis>tus - твой</emphasis></p>
+<p><emphasis>sus — ее, его, Ваш</emphasis></p>
+<p><emphasis>nuestros(-as) - наш</emphasis></p>
+<p><emphasis>vuestros(-as) — ваш (друж)</emphasis></p>
+<p><emphasis>sus — их, Ваш (вежл)</emphasis></p>
+<empty-line/>
+<p>29</p>
+<empty-line/>
+</section>
+</section>
+<section>
+<title>
+<p>Глагол</p>
+</title>
+<section id="_ser and estar">
+<title>
+<p>Глаголы 'ser' и 'estar'</p>
+</title>
+<empty-line/>
+<p><emphasis>yo s<strong>oy</strong> </emphasis></p>
+<p><emphasis>tu e<strong>res </strong></emphasis></p>
+<p><emphasis>el e<strong>s </strong></emphasis></p>
+<p><emphasis>nostros so<strong>mos </strong></emphasis></p>
+<p><emphasis>vostros so<strong>is </strong></emphasis></p>
+<p><emphasis>ellos so<strong>n </strong></emphasis></p>
+<empty-line/>
+<p><emphasis>yo est<strong>oy </strong></emphasis></p>
+<p><emphasis>tu est<strong>as </strong></emphasis></p>
+<p><emphasis>el est<strong>a </strong></emphasis></p>
+<p><emphasis>nostros esta<strong>mos </strong></emphasis></p>
+<p><emphasis>vostros esta<strong>is </strong></emphasis></p>
+<p><emphasis>ellos est<strong>an </strong></emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Использование глагола 'ser'</p>
+</title>
+<empty-line/>
+<p>Используется для неотъемных характеристик или постоянных состояний:</p>
+<empty-line/>
+<p>• личности</p>
+<p><emphasis>- Soy Carmen (Я Кармен)</emphasis></p>
+<p>• принадлежности</p>
+<p><emphasis>Es el perro de Juan (Это собака Жуана)</emphasis></p>
+<p>• происхождения</p>
+<p><emphasis>Mis amigos son de Madrid (Мои друзья из Мадрида)</emphasis></p>
+<p>• национальности</p>
+<p><emphasis>Somos ingleses (Мы англичане)</emphasis></p>
+<p>• рода занятий</p>
+<p><emphasis>El padre de María es arquitecto (Отец Марии архитектор)</emphasis></p>
+<p>• материала</p>
+<p><emphasis>El reloj es de oro (Эти часы из золота)</emphasis></p>
+<p>• характеристик</p>
+<p><emphasis>Carlos es muy alto (Карлос очень высокий)</emphasis></p>
+<p>• выражения времени</p>
+<p><emphasis>Son las cinco (Сейчас пять часов)</emphasis></p>
+<p><emphasis>Hoy es lines (Сегодня понедельник)</emphasis></p>
+<p>• безличных состояний</p>
+<p><emphasis>Es mejor esperar (Лучше подождать)</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Использование глагола 'estar'</p>
+</title>
+<empty-line/>
+<p>• временных состояний или условий</p>
+<p><emphasis>- Pedro está enfermo (Педро болен)</emphasis></p>
+<p>• местоположения (временного или постоянного)</p>
+<p><emphasis>- Carmen está en el salón (Кармен находится в гостинной)</emphasis></p>
+<p>• с герундием при описании продолжительных действий, происходящих в данный момент</p>
+<p><emphasis>- Los niños están jugando en el jardín (Дети играют в саду)</emphasis></p>
+<p>• с причасиями прош времени для пассивных конструкций</p>
+<p>– <emphasis>El ladrón está detenido por la policía (Вор схвачен полицией)</emphasis></p>
+<empty-line/>
+<p>&lt;estar + para&gt; - быть готовым что-то сделать:</p>
+<p>– <emphasis>el tren está para llegar — поезд вот-вот прибудет</emphasis></p>
+<empty-line/>
+<p>См упражнения <a l:href="#_pereiro 7">p7</a>.</p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Правильные глаголы</p>
+</title>
+<section>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Типы спряжений </p>
+</title>
+<empty-line/>
+<p><emphasis>I   - -ar </emphasis></p>
+<p><emphasis>II  - -er </emphasis></p>
+<p><emphasis>III - -ir </emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Presente de indicative </p>
+</title>
+<section>
+<title>
+<p>Спряжение I</p>
+</title>
+<empty-line/>
+<p><emphasis>habl<strong>ar</strong></emphasis></p>
+<empty-line/>
+<p><emphasis>yo         	habl<strong>o</strong></emphasis></p>
+<p><emphasis>tu         	habl<strong>as</strong></emphasis></p>
+<p><emphasis>el         	habl<strong>a </strong></emphasis></p>
+<p><emphasis>nostros	habl<strong>amos</strong></emphasis></p>
+<p><emphasis>vostros    	habl<strong>ais</strong></emphasis></p>
+<p><emphasis>ellos      	habl<strong>an</strong></emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Спряжение II</p>
+</title>
+<empty-line/>
+<p><emphasis>com<strong>er</strong></emphasis></p>
+<empty-line/>
+<p><emphasis>yo         	com<strong>o</strong></emphasis></p>
+<p><emphasis>tu         	com<strong>es</strong></emphasis></p>
+<p><emphasis>el         	com<strong>e</strong></emphasis></p>
+<p><emphasis>nostros	com<strong>emos</strong></emphasis></p>
+<p><emphasis>vostros    	com<strong>eis</strong></emphasis></p>
+<p><emphasis>ellos      	com<strong>en</strong></emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Спряжение III</p>
+</title>
+<empty-line/>
+<p><emphasis>escrib<strong>ir </strong></emphasis></p>
+<empty-line/>
+<p><emphasis>yo         	escrib<strong>o</strong> </emphasis></p>
+<p><emphasis>tu         	escrib<strong>es </strong></emphasis></p>
+<p><emphasis>el         	escrib<strong>e </strong></emphasis></p>
+<p><emphasis>nostros	escrib<strong>imos </strong></emphasis></p>
+<p><emphasis>vostros    	escrib<strong>is </strong></emphasis></p>
+<p><emphasis>ellos      	escrib<strong>en </strong></emphasis></p>
+<p>См. упражнение <a l:href="#_pereiro 11">#pereiro 11</a>.</p>
+<empty-line/>
+</section>
+</section>
+</section>
+<section>
+<title>
+<p>Неправильные глаголы</p>
+</title>
+<section>
+<title>
+<p>ir (идти) </p>
+</title>
+<empty-line/>
+<p>– ходить, идти</p>
+<p>– собираться что-либо сделать (ir a + инфинитив = буд время)</p>
+<p>– vomos - давайте</p>
+<empty-line/>
+<p><emphasis>yo voy </emphasis></p>
+<p><emphasis>tu vas </emphasis></p>
+<p><emphasis>el va </emphasis></p>
+<p><emphasis>nostros vamos </emphasis></p>
+<p><emphasis>vostros vais </emphasis></p>
+<p><emphasis>ellos van </emphasis></p>
+<empty-line/>
+<p>– <emphasis>Van a la iglesia.  (Они ходят в церковь)</emphasis></p>
+<p>– <emphasis>Voy a comprar un periódico.   (Я собираюсь купить газету)</emphasis></p>
+<p>– <emphasis>Vomos a comprar los billetes.   (Давайте купим билеты / Мы купим билеты)</emphasis></p>
+<empty-line/>
+<p><emphasis>30</emphasis></p>
+</section>
+<section>
+<title>
+<p>venir (приходить) </p>
+</title>
+<empty-line/>
+<p><emphasis>yo vengo </emphasis></p>
+<p><emphasis>tu vienes </emphasis></p>
+<p><emphasis>el viene </emphasis></p>
+<p><emphasis>nostros venimos </emphasis></p>
+<p><emphasis>vostros venis </emphasis></p>
+<p><emphasis>ellos vienen </emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>querer (хотеть) </p>
+</title>
+<empty-line/>
+<p><emphasis>yo quiero </emphasis></p>
+<p><emphasis>tu quieres</emphasis></p>
+<p><emphasis>el quiere </emphasis></p>
+<p><emphasis>nostros queremos</emphasis></p>
+<p><emphasis>vostros quereis</emphasis></p>
+<p><emphasis>ellos quieren</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>poder (мочь) </p>
+</title>
+<empty-line/>
+<p><emphasis>yo puedo </emphasis></p>
+<p><emphasis>tu puedes</emphasis></p>
+<p><emphasis>el puede</emphasis></p>
+<p><emphasis>nostros podemos</emphasis></p>
+<p><emphasis>vostros podeis</emphasis></p>
+<p><emphasis>ellos pueden</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>decir (говорить) </p>
+</title>
+<empty-line/>
+<p><emphasis>yo digo</emphasis></p>
+<p><emphasis>tu dices</emphasis></p>
+<p><emphasis>el dice</emphasis></p>
+<p><emphasis>nostros decimos</emphasis></p>
+<p><emphasis>vostros decís</emphasis></p>
+<p><emphasis>ellos decin</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>hacer (делать) </p>
+</title>
+<empty-line/>
+<p><emphasis>yo hago</emphasis></p>
+<p><emphasis>tu haces</emphasis></p>
+<p><emphasis>el hace</emphasis></p>
+<p><emphasis>nostros hacemos</emphasis></p>
+<p><emphasis>vostros hacís</emphasis></p>
+<p><emphasis>ellos hacin</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>ver (видеть) </p>
+</title>
+<empty-line/>
+<p><emphasis>yo veo</emphasis></p>
+<p><emphasis>tu ves</emphasis></p>
+<p><emphasis>el ve</emphasis></p>
+<p><emphasis>nostros vemos</emphasis></p>
+<p><emphasis>vostros veis</emphasis></p>
+<p><emphasis>ellos ven</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>dar (давать) </p>
+</title>
+<empty-line/>
+<p><emphasis>yo doy</emphasis></p>
+<p><emphasis>tu das</emphasis></p>
+<p><emphasis>el da</emphasis></p>
+<p><emphasis>nostros damos</emphasis></p>
+<p><emphasis>vostros dais</emphasis></p>
+<p><emphasis>ellos dan</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>saber (знать) </p>
+</title>
+<empty-line/>
+<p><emphasis>yo sé</emphasis></p>
+<p><emphasis>tu sabes</emphasis></p>
+<p><emphasis>el sabe</emphasis></p>
+<p><emphasis>nostros sabemos</emphasis></p>
+<p><emphasis>vostros sabéis</emphasis></p>
+<p><emphasis>ellos saben</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>oír (слышать) </p>
+</title>
+<empty-line/>
+<p><emphasis>yo oigo</emphasis></p>
+<p><emphasis>tu oyes</emphasis></p>
+<p><emphasis>el oye</emphasis></p>
+<p><emphasis>nostros oímos</emphasis></p>
+<p><emphasis>vostros oís</emphasis></p>
+<p><emphasis>ellos oyen</emphasis></p>
+<empty-line/>
+<empty-line/>
+</section>
+</section>
+<section>
+<title>
+<p>Герундий</p>
+</title>
+<empty-line/>
+<p><emphasis>-ar → -ando</emphasis></p>
+<p><emphasis>-er -ir → iendo</emphasis></p>
+<empty-line/>
+<p>– <emphasis>hablar → hablando (говоря)</emphasis></p>
+<p>– <emphasis>comer → comiendo (кушая)</emphasis></p>
+<p>– <emphasis>vivir → viviendo (живя)</emphasis></p>
+<empty-line/>
+<p><strong>Estar + герундий</strong> для выражения продолжительного времени в настоящий момент (спряжение estar смотри 88).</p>
+<p>– <emphasis>Ramón está bebiendo vino. (Рамон пьет вино)</emphasis></p>
+<p>– <emphasis>Estoy aprenderiendo franc'és. (Я учу французский)</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Причастия прошедшего времени</p>
+</title>
+<empty-line/>
+<p>-ar → -ado</p>
+<p>-er, -ir → -ido</p>
+<empty-line/>
+<p>– <emphasis>hablar → hablado</emphasis></p>
+<p>– <emphasis>comer → comido </emphasis></p>
+<p>– <emphasis>vivir → vivido</emphasis></p>
+<empty-line/>
+<p>Неправильные:</p>
+<empty-line/>
+<p>– <emphasis>escribir → escrito</emphasis></p>
+<p>– <emphasis>ver → visto</emphasis></p>
+<p>– <emphasis>hacer → hecho</emphasis></p>
+<p>– <emphasis>decir → dicho</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Pretérito Perfecto de Indicativo</p>
+</title>
+<empty-line/>
+<p>Уже совершено на момент речи.</p>
+<empty-line/>
+<p>haber + причастие прошедшего времени</p>
+<empty-line/>
+<p>– <emphasis>he comprado</emphasis></p>
+<p>– <emphasis>has comprado</emphasis></p>
+<p>– <emphasis>ha comprado</emphasis></p>
+<p>– <emphasis>hemos comprado</emphasis></p>
+<p>– <emphasis>habéis comprado</emphasis></p>
+<p>– <emphasis>han comprado</emphasis></p>
+<empty-line/>
+<p>– <emphasis>Hemos viajado todo el día.  (Мы проездили весь день)</emphasis></p>
+<empty-line/>
+<p><emphasis>31</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Imperfecto de Indicativo</p>
+</title>
+<empty-line/>
+<p>Прошедшее незаконченное время. Используется, когда мы говорим о привычных (повторяющихся) действиях в прошлом, не имеющих определенных временных границ.</p>
+<empty-line/>
+<p><emphasis>hablar</emphasis></p>
+<p><emphasis>hablaba</emphasis></p>
+<p><emphasis>hablabas</emphasis></p>
+<p><emphasis>hablámos</emphasis></p>
+<p><emphasis>hablabais</emphasis></p>
+<p><emphasis>hablaban</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p><emphasis>comer</emphasis></p>
+<p><emphasis>comía</emphasis></p>
+<p><emphasis>comías</emphasis></p>
+<p><emphasis>comía</emphasis></p>
+<p><emphasis>comíamos</emphasis></p>
+<p><emphasis>comíais</emphasis></p>
+<p><emphasis>comían</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p><emphasis>vivir</emphasis></p>
+<p><emphasis>vivía</emphasis></p>
+<p><emphasis>vivías</emphasis></p>
+<p><emphasis>vivía</emphasis></p>
+<p><emphasis>vivíamos</emphasis></p>
+<p><emphasis>vivíais</emphasis></p>
+<p><emphasis>vivían</emphasis></p>
+<empty-line/>
+<p>Примеры:</p>
+<empty-line/>
+<p>– <emphasis>Carlos compabla el periódico todos los días.  (Карлос обычно покупал газеты каждый день)</emphasis></p>
+<empty-line/>
+<p>Только три глагола изменяются не по общим правилам:  <strong>ser,ir, ver</strong>.</p>
+<empty-line/>
+<p><emphasis>Ser</emphasis></p>
+<p><emphasis>era</emphasis></p>
+<p><emphasis>eras</emphasis></p>
+<p><emphasis>era</emphasis></p>
+<p><emphasis>éramos</emphasis></p>
+<p><emphasis>erais</emphasis></p>
+<p><emphasis>eran</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p><emphasis>Ir</emphasis></p>
+<p><emphasis>iba</emphasis></p>
+<p><emphasis>ibas</emphasis></p>
+<p><emphasis>iba</emphasis></p>
+<p><emphasis>ibamos</emphasis></p>
+<p><emphasis>ibais</emphasis></p>
+<p><emphasis>iban</emphasis></p>
+<empty-line/>
+<p><emphasis>Ver</emphasis></p>
+<p><emphasis>veía</emphasis></p>
+<p><emphasis>veías</emphasis></p>
+<p><emphasis>veía</emphasis></p>
+<p><emphasis>veíamos</emphasis></p>
+<p><emphasis>veíais</emphasis></p>
+<p><emphasis>veían</emphasis></p>
+<empty-line/>
+<p>Пример:</p>
+<empty-line/>
+<p><emphasis>- Ibamos a España una vaz al año.  (Мы привыкли ездить в Испанию раз в год)</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>ir a + infinitivo</p>
+</title>
+<empty-line/>
+<p>Действие, которое должно совршиться в ближайшем времени — futuro próximo.</p>
+<empty-line/>
+<p>– <emphasis><strong>voy a ver</strong> la presenta</emphasis></p>
+<p>– <emphasis><strong>vamos a trabajar</strong> todo el día.</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Вспомогательный глагол haber</p>
+</title>
+<empty-line/>
+<p>Используется когда глагол опущен</p>
+<empty-line/>
+<p>– <emphasis>En la playa hay una barca.   (На берегу — лодка)</emphasis></p>
+<p>– <emphasis>En esta ciudad haymuchos turistas.</emphasis></p>
+<p>– <emphasis>¿Hay una barca en la playa?</emphasis></p>
+<p>– <emphasis>¿Qué hay en la playa?</emphasis></p>
+<p>– <emphasis>¿Hay muchos turistas en esta ciudad?</emphasis></p>
+<empty-line/>
+<p>Hay que + инфинитив = необходимость действия:</p>
+<empty-line/>
+<p>– <emphasis>Hay que var la catedral.  (Надо посмотреть собор)</emphasis></p>
+<p>– <emphasis>No hay que llorar.  (Не надо плакать)</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Местоименные глаголы.  Verbox pronominales.</p>
+</title>
+<empty-line/>
+<p>Глагол + se</p>
+<empty-line/>
+<p>От переходных глаголов:</p>
+<p>– <emphasis>preparar → prepararse (готовить - готовиться)</emphasis></p>
+<empty-line/>
+<p>От непереходных глаголов:</p>
+<p>– <emphasis>ir → irse (идти - уходить)</emphasis></p>
+<empty-line/>
+<p>При спряжении возвратное местоимение ставится перед глаголом:</p>
+<empty-line/>
+<p>– <emphasis>me preparo</emphasis></p>
+<p>– <emphasis>te preparas</emphasis></p>
+<p>– <emphasis>se prepara</emphasis></p>
+<p>– <emphasis>nos preparamos</emphasis></p>
+<p>– <emphasis>os preparáis</emphasis></p>
+<p>– <emphasis>se preparan</emphasis></p>
+<empty-line/>
+</section>
+</section>
+<section>
+<title>
+<p>Числительные</p>
+</title>
+<section>
+<title>
+<p>Количественные числительные</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>1-10: uno, dos , tress, cuatro, cinco, seis, siete, ocho, nueve, diez</p>
+<p>11-20:  once, doce, trece, catorce, quince,  <strong>dieci</strong>séis, <strong>dieci</strong>siete, <strong>dieci</strong>ocho, <strong>dieci</strong>nueve, veinte</p>
+<p>20-30: <strong>veinti</strong>uno, <strong>veinti</strong>dós, <strong>veinti</strong>trés, <strong>veinti</strong>cuatro, <strong>veinti</strong>cinco, <strong>veinti</strong>séis … treinta</p>
+<p>30-40: treinta,  treinta y uno uno,  <strong>treinta y</strong> dos …  cuareta</p>
+<p>50: cincuenta</p>
+<p>60: sesenta</p>
+<p>70: setenta</p>
+<p>80: ochenta</p>
+<p>90: noventa</p>
+<p>100: ciento</p>
+<p>101: ciento dos …</p>
+<p>199: ciento noventa y nueve</p>
+<p>200: doscientos</p>
+<p>300: trescientos</p>
+<p>1000: mil</p>
+<p>2000:  dos mil</p>
+<empty-line/>
+<p>29</p>
+</section>
+<section>
+<title>
+<p>Порядковые числительные</p>
+</title>
+<empty-line/>
+<p>1th - primero</p>
+<p>2th - segundo</p>
+<p>3th - tercero</p>
+<p>4<sup>th</sup> - cuarto</p>
+<p>5<sup>th</sup> - quinto</p>
+<p>6<sup>th</sup> - sexto</p>
+<p>7<sup>th</sup> - séptimo</p>
+<p>8<sup>th</sup> - octavo</p>
+<p>9<sup>th</sup> - noveno</p>
+<p>10<sup>th</sup> - décimo</p>
+<empty-line/>
+<p>Перед сущ муж рода и ед числа → primer, tercer:</p>
+<empty-line/>
+<p>– <emphasis>El primer hombre (Первый человек)</emphasis></p>
+<empty-line/>
+<p>30</p>
+<empty-line/>
+</section>
+</section>
+<section>
+<title>
+<p>Предлоги</p>
+</title>
+<empty-line/>
+<p><strong>a</strong> - направленное движение</p>
+<empty-line/>
+<p>– <emphasis>Victor va a la universidad.</emphasis></p>
+<empty-line/>
+<p><strong>de</strong> — принадлежность и исходный пункт движения</p>
+<empty-line/>
+<p>– <emphasis>el libro de Víctor</emphasis></p>
+<p>– <emphasis>Andrés sale de la universidad.</emphasis></p>
+<empty-line/>
+<p><strong>сon</strong> — с кем либо</p>
+<empty-line/>
+<p>– <emphasis>Alberto habla con su compañero.</emphasis></p>
+<p><emphasis><strong></strong></emphasis></p>
+<p><strong>por </strong>- по</p>
+<empty-line/>
+<p>– <emphasis>Salvador pasea por la Avenida de Colón.</emphasis></p>
+<empty-line/>
+<p><strong>sobre</strong> — на (чем либо), о (чем-либо)</p>
+<empty-line/>
+<p>– <emphasis>El libro está sobre la mesa.</emphasis></p>
+<p>– <emphasis>Alberto lee un relato sobre Moscú.</emphasis></p>
+<empty-line/>
+</section>
+</section>
+<section>
+<title>
+<p>Построение приложений</p>
+</title>
+<section>
+<title>
+<p>Принадлежность</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>кого? чего? чей ? -&gt; de </p>
+<empty-line/>
+<p>– <emphasis>El padre de Juan (отец хуана)</emphasis></p>
+<p>– <emphasis>El paraguas de la mujer (зонт женщины)</emphasis></p>
+<p>– <emphasis>La orilla del rio (берег реки)</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Простое повествовательное предложение</p>
+</title>
+<empty-line/>
+<p>Подл + сказ</p>
+<empty-line/>
+<p>– <emphasis>Arturo lee.</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Вопросительные предожения без вопросительного слова</p>
+</title>
+<empty-line/>
+<p>Сказ + подлежащее</p>
+<empty-line/>
+<p>– <emphasis>¿Escribe Alberto?</emphasis></p>
+<p>– <emphasis>Si, Alberto escribe.</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Вопроc к определению</p>
+</title>
+<empty-line/>
+<p>– <emphasis>¿Qué revista lee Fernardo?</emphasis></p>
+<p>– <emphasis>¿A qué universidad va Fernardo?</emphasis></p>
+<p>– <emphasis>¿De qué universidad sale?</emphasis></p>
+<p>– <emphasis>¿En qué teatro entra Fernando?</emphasis></p>
+<p>– <emphasis>¿Por qué avenida pasea Fernardo?</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Вопроc к обстоятельству места</p>
+</title>
+<empty-line/>
+<p>– <emphasis>¿Dónde vive Fernardo?  (где)</emphasis></p>
+<p>– <emphasis>¿Adónde va Andréas?  (куда)</emphasis></p>
+<p>– <emphasis>¿De dónde sale Alberto? (откуда)</emphasis></p>
+<p>– <emphasis>¿Por dónde pasea Pablo? (где)</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Вопроc к главным членам предложения</p>
+</title>
+<empty-line/>
+<p>К подлежащему — quién(es):</p>
+<empty-line/>
+<p>– <emphasis>¿Quién entra en la clase?</emphasis></p>
+<empty-line/>
+<p>К сказуемому — qué hace(n):</p>
+<empty-line/>
+<p>– <emphasis>¿Qué hace Fernando?   (Что делает …)</emphasis></p>
+<p>– <emphasis>Lee.</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Вопроc к дополнению</p>
+</title>
+<empty-line/>
+<p>– <emphasis>Saludo a Alberto.  ( я приветсвую альберто)</emphasis></p>
+<p>– <emphasis>¿A quién saluda Pedro?   (кого приветсвует альберто)</emphasis></p>
+<p>– <emphasis>¿A quién contesta Pedro?  (кому отвечает педро)</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Вопроc к обстоятельству времени и образа действия</p>
+</title>
+<empty-line/>
+<p><strong>¿cuándo? </strong>- когда?</p>
+<p>– <emphasis>¿<strong>Cuándo</strong> va Gabriel a Petersburgo?</emphasis></p>
+<p>– <emphasis>Gabriel va <strong>mañana</strong> a Petersburgo.</emphasis></p>
+<empty-line/>
+<p><strong>¿cómo? </strong>- как?</p>
+<p>– <emphasis>¿<strong>Cómo</strong> habla Pedro el español?</emphasis></p>
+<p>– <emphasis>Pedro habla el español <strong>muy bien</strong>.</emphasis></p>
+<empty-line/>
+<p>Ошибка: источник перекрестной ссылки не найден</p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Прямое дополнение</p>
+</title>
+<empty-line/>
+<p>Все глаголы (искл. <emphasis>Tener</emphasis>) требуют после себя предлога, когда в роли прямого дополнения выступает конкретный человек или животное:</p>
+<empty-line/>
+<p>– <emphasis>Llamo a Pedro.    (Я зову Педро)</emphasis></p>
+<p>– <emphasis>Llamo a mi perro.    (Я зову свою собаку)</emphasis></p>
+<p>– <emphasis>Tiene un perro.    (У него есть собака)</emphasis></p>
+<p>– <emphasis>Compra el libro.</emphasis></p>
+<empty-line/>
+<empty-line/>
+</section>
+</section>
+</section>
+<section>
+<title>
+<p>Упражнения </p>
+</title>
+<section>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Учебник 2</p>
+</title>
+<section>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>pereiro 1 </p>
+</title>
+<empty-line/>
+<p>  1. el libro - los libros </p>
+<p>  2. la casa - las casas </p>
+<p>  3. la mujer - las mujeres </p>
+<p>  4. el hombre - los hombres </p>
+<p>  5. la calle - las calles </p>
+<p>  6. la flor - las flores </p>
+<p>  7. el jardin - los jardines </p>
+<p>  8. el coche - los coches </p>
+<p>  9. la capitail - las capitals </p>
+<p>  10. la ciudad - las ciudades </p>
+<p>  11. la luz - las luces </p>
+<p>  12. la ley - las lyes </p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>pereiro 2 </p>
+</title>
+<empty-line/>
+<p>  los cigarrillos, el vino, las mesas, la cerveza, el pez, los arboles, el padre, la madre, el lapiz, las estaciones, el billete, el tren </p>
+<empty-line/>
+<p>  unos cigarrillos, un vino, unas mesas, una cerveza, un pez, unos arboles, un padre, una madre, un lapiz, unas estaciones, un billete, un tren </p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>pereiro 3 </p>
+</title>
+<empty-line/>
+<p>  el libro, la mesa, los billetes, unos arboles, una cerveza, el coche, una cuidad, unos cigarrillos, el jardin, una calle, unas mujeres, la estacione </p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>pereiro 4 </p>
+</title>
+<empty-line/>
+<p>  1. Tienen la casa. </p>
+<p>  2. No tenemos el cafè. </p>
+<p>  3. El hombre tiene miedo. </p>
+<p>  4. Tengo que trabajar. </p>
+<p>  5. ¿Tienes tu un lapiz? </p>
+<p>  6. No tenemos sed. </p>
+<p>  7. ¿Tienen ustedes todo? </p>
+<p>  8. Tengo calor. </p>
+<p>  9. Tengo que salir. </p>
+<p>  10. Tiene el hijo. </p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Trening 1 </p>
+</title>
+<empty-line/>
+<p> - ¿Tiene Ud hambre? </p>
+<p> - No, no tengo hambre. </p>
+<empty-line/>
+<p> </p>
+<p> - ¿Tienen Uds cerveza? </p>
+<p> - No, no tenemos cerveza. </p>
+<p> </p>
+<empty-line/>
+<p> - ¿Tiene Ud sed? </p>
+<p> - No, no tengo sed. </p>
+<empty-line/>
+<empty-line/>
+<p> - ¿Tiene Uds calor? </p>
+<p> - No, no tenemos calor. </p>
+<empty-line/>
+<empty-line/>
+<p> - ¿Tiene Ud frío? </p>
+<p> - No, no tengo frío. </p>
+<empty-line/>
+<empty-line/>
+<p> - ¿Tienen Uds los libros? </p>
+<p> - No, no tenemos los libros. </p>
+<empty-line/>
+<empty-line/>
+<p> - ¿Tiene Ud cigarrillos? </p>
+<p> - No, no tengo cigarrillos. </p>
+<empty-line/>
+<empty-line/>
+<p> - ¿Tienen Uds los billetes? </p>
+<p> - No, no tenemos los billetes. </p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>pereiro 5 </p>
+</title>
+<empty-line/>
+<p> 1. a la iglesia </p>
+<p> 2. del idioma </p>
+<p> 3. al coche </p>
+<p> 4. a la mesa </p>
+<p> 5. de los árboles </p>
+<p> 6. a la casa </p>
+<p> 7. del hombre </p>
+<p> 8. de la cuidad</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>pereiro 6</p>
+</title>
+<empty-line/>
+<p>1. Unos hombres buen<strong>os</strong></p>
+<p>2. Una mujer encantador<strong>a</strong></p>
+<p>3. Unos libros útil<strong>es</strong></p>
+<p>4. Unas flores blan<strong>as os</strong></p>
+<p>5. Un coche barat<strong>o</strong></p>
+<p>6. Una calle larg<strong>a o</strong></p>
+<p>7. Unos árboles alt<strong>os</strong></p>
+<p>8. Unas cuidades interesant<strong>es</strong></p>
+<p>9. Un periódico inglés</p>
+<p>10. Una revista alemán<strong>a</strong></p>
+<empty-line/>
+</section>
+<section id="_pereiro 7">
+<title>
+<p>pereiro 7</p>
+</title>
+<empty-line/>
+<p>1. Las lecciones <strong>son</strong> difíciles.</p>
+<p>2. El café <strong>es</strong> frío.</p>
+<p>3. Las chicas <strong>son</strong> alemanas.</p>
+<p>4. Jaime <strong>es</strong> muy inteligente.</p>
+<p>5. Los libros <strong>están</strong> sobre la mesa.</p>
+<p>6. Ana <strong>está</strong> triste.</p>
+<p>7. La mujer de Luis <strong>es</strong> secretaria.</p>
+<p>8. La casa <strong>es</strong> pequeña.</p>
+<p>9. El coche no <strong>está</strong> en el garaje.</p>
+<p>10. Yo <strong>estoy</strong> contento con el hotel.</p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Pereiro 8</p>
+</title>
+<empty-line/>
+<p>1. Ella es italiana.</p>
+<p>2. Las manzanas están en la cocina.</p>
+<p>3. El autobús está allí.</p>
+<p>4. Madrid es la capital de España.</p>
+<p>5. La muchacha es alto.</p>
+<p>6. La casa está en la colina.</p>
+<p>7. Es peligroso fumar.</p>
+<p>8. El café es dulce demasiado.</p>
+<p>9. Mañana es domingo.</p>
+<p>10. Están en la playa.</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Pereiro 9</p>
+</title>
+<empty-line/>
+<p>1. <strong>Este</strong> coche <strong>es</strong> caro.</p>
+<p>2. <strong>Estos</strong> cigarrillos <strong>son</strong> fuert<strong>es</strong>.</p>
+<p>3. <strong>Esa</strong> iglesia <strong>es muy</strong> vieg<strong>a</strong>.</p>
+<p>4. <strong>Estos</strong> amigos <strong>son</strong> de Madrid.</p>
+<p>5. <strong>Esta</strong> mesa <strong>es</strong> ocupad<strong>a</strong>.</p>
+<p>6. <strong>Este</strong> hombre <strong>es</strong> libre.</p>
+<p>7. <strong>Este</strong> ascensor <strong>es</strong> lleno.</p>
+<p>8. <strong>Eses</strong> uva <strong>son</strong> agri<strong>os</strong>.</p>
+<p>9. <strong>Aquellos</strong> libros <strong>son</strong> interesant<strong>es</strong>.</p>
+<p>10. Aquella playa. </p>
+<empty-line/>
+</section>
+<section id="_pereiro 11">
+<title>
+<p>Pereiro 11</p>
+</title>
+<empty-line/>
+<p>1. Comprar<strong>o</strong>.</p>
+<p>2. Fum<strong>as</strong>.</p>
+<p>3. Beb<strong>e</strong>.</p>
+<p>4. Escrib<strong>imos</strong>.</p>
+<p>5. Estudi<strong>o</strong>.</p>
+<p>6. Habl<strong>áis</strong>.</p>
+<p>7. Com<strong>e</strong>.</p>
+<p>8. Viv<strong>imos</strong>.</p>
+<p>9. Sub<strong>en</strong>.</p>
+<p>10. Aprend<strong>o</strong>.</p>
+<p>11. Beb<strong>e</strong>.</p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Pereiro 12</p>
+</title>
+<empty-line/>
+<p>1. Compr<strong>a</strong> el periodico.  (el)</p>
+<p>2. ¿Beb<strong>e </strong>la cerveza? (elle)</p>
+<p>3. Pedro viv<strong>e </strong>en Barcelona.</p>
+<p>4. Escrib<strong>o </strong>de Concita. (Yo)</p>
+<p>5. ¿Aprende Ud. inglés?</p>
+<p>6. Estos niños aprend<strong>en</strong> español.</p>
+<p>7. Com<strong>e</strong> demasiado. (el)</p>
+<p>8. Sub<strong>imos</strong> la colina.  (nosotros)</p>
+<p>9. Habl<strong>o</strong> inglés. (Yo)</p>
+<p>10. Fum<strong>an los </strong>cigarrill<strong>os </strong>barat<strong>os</strong>. (ellos)</p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Pereiro 13</p>
+</title>
+<empty-line/>
+<p>1. El pueblo en que vivmos</p>
+<p>2. La mujer que trabaja en la tienda</p>
+<p>3. El libro que lee</p>
+<p>4. La cuidad de que está hablando</p>
+<p>5. ---</p>
+<p>6. ¿De quién son estas  cartas?</p>
+<p>7. ¿Qué revista compra?</p>
+<p>8. La casa que tiene la puerta verde</p>
+<p>9. La pluma que escribo</p>
+<p>10. ¿Qué número?</p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Training 2</p>
+</title>
+<empty-line/>
+<p>– <emphasis>¿Beben Uds. Cerveza?</emphasis></p>
+<p>– <emphasis>Si, bebemos cerveza.</emphasis></p>
+<empty-line/>
+<p>– <emphasis>¿Come Ud. pan?</emphasis></p>
+<p>– <emphasis>Si, come pan.</emphasis></p>
+<empty-line/>
+<p>– <emphasis>¿Viven Uds. en Londres?</emphasis></p>
+<p>– <emphasis>Si, vivimos en Londres.</emphasis></p>
+<empty-line/>
+<p>– <emphasis>¿Es Ud. médico?</emphasis></p>
+<p>– <emphasis>Si, soy médico.</emphasis></p>
+<empty-line/>
+<p>– <emphasis>¿Hablan Uds. español?</emphasis></p>
+<p>– <emphasis>Si, hablamos español.</emphasis></p>
+<empty-line/>
+<p>– <emphasis>¿Compra Ud. La revista?</emphasis></p>
+<p>– <emphasis>Si, compro la revista.</emphasis></p>
+</section>
+<section>
+<title>
+<p></p>
+<p><emphasis>Training 3</emphasis></p>
+</title>
+<empty-line/>
+<p>– <emphasis>¿Vive Ud. en Barcelona?</emphasis></p>
+<p>– <emphasis>No, no vivo en Barcelona.</emphasis></p>
+<empty-line/>
+<p>– <emphasis>¿Fuman Uds.?</emphasis></p>
+<p>– <emphasis>No, no fumamos.</emphasis></p>
+<empty-line/>
+<p>– <emphasis>¿Aprende Ud. alemán?</emphasis></p>
+<p>– <emphasis>No, no aprendo alemán.</emphasis></p>
+<empty-line/>
+<p>– <emphasis>¿Compran Uds. los periódicos?</emphasis></p>
+<p>– <emphasis>No, no compramos los periódicos.</emphasis></p>
+<p>– <emphasis>¿Bebe Ud. vino?</emphasis></p>
+<p>– <emphasis>No, no bebo vino.</emphasis></p>
+<empty-line/>
+<p>– <emphasis>¿Son Uds. españoles?</emphasis></p>
+<p>– <emphasis>No, no somos españoles.</emphasis></p>
+</section>
+</section>
+</section>
+<section>
+<title>
+<p></p>
+</title>
+<section>
+<section>
+<title>
+<p><emphasis>Training 4</emphasis></p>
+</title>
+<empty-line/>
+<p>– <emphasis>¿Qué compra?  Está comprando el periódico.</emphasis></p>
+<p>– <emphasis>¿Qué beben?  Están bebiendo cerveza.</emphasis></p>
+<p>– <emphasis>¿Qué estudia Ud.?  Está estudiante español.</emphasis></p>
+<p>– <emphasis>¿Qué comen Uds.?  Están comiendo uvas.</emphasis></p>
+<p>– <emphasis>¿Qué lee?  Está leiendo una revista.</emphasis></p>
+<p>– <emphasis>¿Qué fuma Ud.?  Está fumando un cigarrillo.</emphasis></p>
+<p>– <emphasis>¿Qué hablan Uds.?  Están hablando inglés.</emphasis></p>
+<p>– <emphasis>¿Qué escribe?  Está escribiendo una carta.</emphasis></p>
+<p>– <emphasis>¿Qué aprenden?  Están aprendiendo español.</emphasis></p>
+<p>– <emphasis>¿Qué sube Ud.?  Está subiendo las maletas.</emphasis></p>
+<empty-line/>
+</section>
+<section id="_p14">
+<title>
+<p>Pereiro 14</p>
+</title>
+<empty-line/>
+<p>1. <emphasis>Mi marido</emphasis></p>
+<p>2. <emphasis>Su hermano.</emphasis></p>
+<p>3. <emphasis>Nuestra hermana.</emphasis></p>
+<p>4. <emphasis>Su sobrino.</emphasis></p>
+<p>5. <emphasis>Su tío</emphasis></p>
+<p>6. <emphasis>Mis padres.</emphasis></p>
+<p>7. <emphasis>Tu mujer</emphasis></p>
+<p>8. <emphasis>Sus hijos</emphasis></p>
+<p>9. <emphasis>Su primo.</emphasis></p>
+<p>10. <emphasis>Sus parientes.</emphasis></p>
+<empty-line/>
+</section>
+<section id="_p15">
+<title>
+<p>Pereiro 15</p>
+</title>
+<empty-line/>
+<p>1. <emphasis>Mi casa y la tuya.</emphasis></p>
+<p>2. <emphasis>Nuestro jardín y el suyo.</emphasis></p>
+<p>3. <emphasis>Su coche y el nuestro.</emphasis></p>
+<p>4. <emphasis>Mi mujer y la suya.</emphasis></p>
+<p>5. <emphasis>Vuestra madre y la nuestra.</emphasis></p>
+<p>6. <emphasis>Su padre y el mío.</emphasis></p>
+<p>7. <emphasis>Mi cerveza y la suya.</emphasis></p>
+<p>8. <emphasis>Nuestros amigos y la suyos.</emphasis></p>
+<p>9. <emphasis>Su secretaria y la mía.</emphasis></p>
+<p>10. <emphasis>Tu gato y el suyo.</emphasis></p>
+<empty-line/>
+</section>
+<section id="_p16">
+<title>
+<p>Pereiro 16</p>
+</title>
+<empty-line/>
+<p>1. <emphasis>diez casas</emphasis></p>
+<p>2. <emphasis>setenta y dos pesetas</emphasis></p>
+<p>3. <emphasis>doscientos cigarrillos</emphasis></p>
+<p>4. <emphasis>dieciseís cartas</emphasis></p>
+<p>5. <emphasis>cien treinta y cinco libros</emphasis></p>
+<p>6. <emphasis>cuarenta y seis hoteles</emphasis></p>
+<p>7. <emphasis>trescientas cincuenta y cuatro manzanas</emphasis></p>
+<p>8. <emphasis>sesenta y ocho tiendas</emphasis></p>
+<p>9. <emphasis>mil cuatrocientos hombres</emphasis></p>
+<p>10. <emphasis>setesientos ochenta y cinco coches</emphasis></p>
+<empty-line/>
+</section>
+<section id="_p17">
+<title>
+<p>Pereiro 17</p>
+</title>
+<empty-line/>
+<p>1. <emphasis>El septimo libro</emphasis></p>
+<p>2. <emphasis>La primero mujer</emphasis></p>
+<p>3. <emphasis>La trecero hija</emphasis></p>
+<p>4. <emphasis>El sexto cigarrillo</emphasis></p>
+<p>5. <emphasis>La segunda puerta</emphasis></p>
+<p>6. <emphasis>El décimo dia</emphasis></p>
+<p>7. <emphasis>La cuaro calle</emphasis></p>
+<p>8. <emphasis>El noveno niño</emphasis></p>
+<p>9. <emphasis>El quinto hombre</emphasis></p>
+<p>10. <emphasis>La octavo tienda</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Pereiro 18</p>
+</title>
+<empty-line/>
+<p>1. <emphasis>¿Qué hora es?</emphasis></p>
+<p>2. <emphasis>Son las diez y doce</emphasis></p>
+<p>3. <emphasis>Trabajo <strong>hasta</strong> las once y media.</emphasis></p>
+<p>4. <emphasis>Por el invierno etsá frío en Madrid. → <strong>En</strong> invierno en Madrid <strong>hace</strong> frío.</emphasis></p>
+<p>5. <emphasis>Tienen las vacaciones en julio.</emphasis></p>
+<p>6. <emphasis>Mi cumpleaños es el tercero de diciembre.</emphasis></p>
+<p>7. <emphasis>Por el sábado él as libre. → <strong>Está</strong> libre todos los sábados.</emphasis></p>
+<p>8. <emphasis>El octubre es un mes excelente.</emphasis></p>
+<p>9. <emphasis>---</emphasis></p>
+<p>10. <emphasis>Como con mis padres el domingo.</emphasis></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section id="_p19">
+<title>
+<p>Pereiro 19</p>
+</title>
+<empty-line/>
+<p>1. <emphasis>Vamos al iglesia todos los domingos.</emphasis></p>
+<p>2. <emphasis>Voy a comprar el libro.</emphasis></p>
+<p>3. <emphasis>Va a casa de mi amigo.</emphasis></p>
+<p>4. <emphasis>Vamos de vacaciones en verano.</emphasis></p>
+<p>5. <emphasis>Van a Madrid en tren.</emphasis></p>
+<p>6. <emphasis>Vamos comprar café.</emphasis></p>
+<p>7. <emphasis>No va a cantar.</emphasis></p>
+<p>8. <emphasis>Voy a descansar mañana.</emphasis></p>
+<p>9. <emphasis>Van de compras en el mercado.</emphasis></p>
+<p>10. <emphasis>Vamos a el teatro.</emphasis></p>
+<empty-line/>
+</section>
+<section id="_p20">
+<title>
+<p><emphasis>Pereiro 20</emphasis></p>
+</title>
+<empty-line/>
+<p>1. <emphasis>He escrito tres cartas.</emphasis></p>
+<p>2. <emphasis>Ha hablado español.</emphasis></p>
+<p>3. <emphasis>He comido mucho.</emphasis></p>
+<p>4. <emphasis>En el té hay el azúcar.</emphasis></p>
+<p>5. <emphasis>Ha comrado el vestido nuevo.</emphasis></p>
+<p>6. <emphasis>¿Habéis terminado el trabajo?</emphasis></p>
+<p>7. <emphasis>Jamás ha ayudado.</emphasis></p>
+<p>8. <emphasis>En la bolsa hay las unas naranjas.</emphasis></p>
+<p>9. <emphasis>¿Habéis bebido la carvexa?</emphasis></p>
+<p>10. <emphasis>No he visto la película.</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p><emphasis>Pereiro 21</emphasis></p>
+</title>
+<empty-line/>
+<p>1. <emphasis>Voy a ver a mi tío.</emphasis></p>
+<p>2. <emphasis>Tenemos que ayudar a nuestros amigos.</emphasis></p>
+<p>3. <emphasis>Juan ha comprado a un perro.</emphasis></p>
+<p>4. <emphasis>No se lo he dicho a el médico.</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p><emphasis>Pereiro 22</emphasis></p>
+</title>
+<empty-line/>
+<p>1. <emphasis>Visito a madre.</emphasis></p>
+<p>2. <emphasis>Hay que llamar a nińos.</emphasis></p>
+<p>3. <emphasis>Maria prepara la comida.</emphasis></p>
+<p>4. <emphasis>Han invitado a amigos.</emphasis></p>
+<p>5. <emphasis>Voy a comprar a caballo.</emphasis></p>
+<p>6. <emphasis>Hay que bañar a perro.</emphasis></p>
+<p>7. <emphasis>Esperan a el profesor.</emphasis></p>
+<p>8. <emphasis>Carlos no ha visto a Toledo.</emphasis></p>
+<empty-line/>
+</section>
+</section>
+</section>
+<section>
+<title>
+<p>Лексика </p>
+</title>
+<section>
+<empty-line/>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Существительные</p>
+</title>
+<section>
+<empty-line/>
+<p><emphasis>carta - письмо</emphasis></p>
+<p><emphasis>cartera - портфель </emphasis></p>
+<p><emphasis>novela - роман </emphasis></p>
+<p><emphasis>pluma - ручка  </emphasis></p>
+<p><emphasis>puro - сигарета  </emphasis></p>
+<p><emphasis>sobre - конверт </emphasis></p>
+<p><emphasis>vaso - стакан </emphasis></p>
+<p><emphasis>año - год </emphasis></p>
+<p><emphasis>avenida - проспект </emphasis></p>
+<p><emphasis>calle (f) - улица </emphasis></p>
+<p><emphasis>casa - дом  </emphasis></p>
+<p><emphasis>compañero - товарищ </emphasis></p>
+<p><emphasis>correos - почта </emphasis></p>
+<p><emphasis>mesa - стол </emphasis></p>
+<p><emphasis>muchacho - юноша </emphasis></p>
+<p><emphasis>paseo - бульвар </emphasis></p>
+<p><emphasis>relato - рассказ </emphasis></p>
+<p><emphasis>revista - журнал </emphasis></p>
+<p><emphasis>alumno - ученик </emphasis></p>
+<p><emphasis>armario - шкаф </emphasis></p>
+<p><emphasis>ciudad - город </emphasis></p>
+<p><emphasis>clase - урок </emphasis></p>
+<p><emphasis>lapiz - карандаш </emphasis></p>
+<p><emphasis>leccion - урок </emphasis></p>
+<p><emphasis>lengua - язык </emphasis></p>
+<p><emphasis>libertad - свобода </emphasis></p>
+<p><emphasis>lucha - борьба </emphasis></p>
+<p><emphasis>mapa - карта </emphasis></p>
+<p><emphasis>pueblo - народ </emphasis></p>
+<p><emphasis>puerta - дверь </emphasis></p>
+<p><emphasis>noticia - известие </emphasis></p>
+<p><emphasis>pais - страна </emphasis></p>
+<p><emphasis>pared - стена </emphasis></p>
+<p><emphasis>color - цвет </emphasis></p>
+<p><emphasis>cuaderno - тетрадь </emphasis></p>
+<p><emphasis>cuarto - комната </emphasis></p>
+<p><emphasis>dia - день </emphasis></p>
+<p><emphasis>aula - уадитория </emphasis></p>
+<p><emphasis>boligrafo - ручка </emphasis></p>
+<p><emphasis>silla - стул </emphasis></p>
+<p><emphasis>ventana - окно </emphasis></p>
+<p><emphasis>vida - жизнь </emphasis></p>
+<p><emphasis>la maleta — чемодан</emphasis></p>
+<p><emphasis>el pan — хлеб</emphasis></p>
+<p><emphasis>el vino — вино</emphasis></p>
+<p><emphasis>la habitación — комната</emphasis></p>
+<p><emphasis>el tren - поезд </emphasis></p>
+<p><emphasis>el coche - автомобиль </emphasis></p>
+<p><emphasis>el jardin - сад </emphasis></p>
+<p><emphasis>articulo - статья </emphasis></p>
+<p><emphasis>despacho - кабинет</emphasis></p>
+<p><emphasis>ejercito - армия </emphasis></p>
+<p><emphasis>esposa - жена </emphasis></p>
+<p><emphasis>exito - успех </emphasis></p>
+<p><emphasis>fiesta - праздник </emphasis></p>
+<p><emphasis>impression - впечатление </emphasis></p>
+<p><emphasis>palabra - слово </emphasis></p>
+<p><emphasis>relacion - отношение, связь </emphasis></p>
+<p><emphasis>tarde - вечер </emphasis></p>
+<p><emphasis>trabajo - работа </emphasis></p>
+<p><emphasis>victoria - победа </emphasis></p>
+<p><emphasis>la cocina — кухня</emphasis></p>
+<p><emphasis>el mercado - рынок</emphasis></p>
+<p><emphasis>el azúcar — сахар</emphasis></p>
+<p><emphasis>el vestído — платье</emphasis></p>
+<p><emphasis>la comida — еда, пища</emphasis></p>
+<p><emphasis>el caballo - лошадь</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Семья</p>
+</title>
+<empty-line/>
+<p><emphasis>la mujer - женщина </emphasis></p>
+<p><emphasis>el hombre - мужчина </emphasis></p>
+<p><emphasis>el padre - отец </emphasis></p>
+<p><emphasis>la madre - мать </emphasis></p>
+<p><emphasis>el hijo - сын </emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Животные</p>
+</title>
+<empty-line/>
+<p><emphasis>un pez — fish</emphasis></p>
+<p><emphasis>un gato — кошка</emphasis></p>
+<p><emphasis>un perro -  dog</emphasis></p>
+<p><emphasis>un ratón -  mouse</emphasis></p>
+<p><emphasis>un pato — duck</emphasis></p>
+<p><emphasis>una serpiente — snake</emphasis></p>
+<p><emphasis>una tortuga — tortoise</emphasis></p>
+<p><emphasis>un camello — camel</emphasis></p>
+<p><emphasis>un elefante — elefant</emphasis></p>
+<p><emphasis>un conejo — заяц</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Дни недели</p>
+<p></p>
+</title>
+<p><emphasis>el → Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Месяцы</p>
+</title>
+<empty-line/>
+<p><emphasis>el → Enero, Febrero, Marzo, Abril, Mayo, Junio, Julio, Agosto, Septimbre, Octubre, Dicembre</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Времена года</p>
+</title>
+<empty-line/>
+<p><emphasis>el invierno, la primavera, el verano, el otoño</emphasis></p>
+<empty-line/>
+</section>
+</section>
+<section>
+<title>
+<p>Прилагательные </p>
+</title>
+<section>
+<empty-line/>
+<p><emphasis>encantador — интересный</emphasis></p>
+<p><emphasis>útil ' - полезный</emphasis></p>
+<p><emphasis>barato — дешевый</emphasis></p>
+<p><emphasis>largo — длинный</emphasis></p>
+<p><emphasis>alto — высокий</emphasis></p>
+<p><emphasis>dulce — сладкий</emphasis></p>
+<p><emphasis>viejo — старый</emphasis></p>
+<p><emphasis>ocupado — занятый</emphasis></p>
+<p><emphasis>libre — свободный</emphasis></p>
+<p><emphasis>caro — дорогой</emphasis></p>
+<p><emphasis>fuerte — сильный</emphasis></p>
+<p><emphasis>claro - светлый </emphasis></p>
+<p><emphasis>nuevo - новый </emphasis></p>
+<p><emphasis>otro - другой </emphasis></p>
+<p><emphasis>ultimo - последный </emphasis></p>
+<p><emphasis>amable - любезный </emphasis></p>
+<p><emphasis>culto - культурный </emphasis></p>
+<p><emphasis>dificil - трудный </emphasis></p>
+<p><emphasis>exterior - внешний </emphasis></p>
+<p><emphasis>extranjero - иностранный </emphasis></p>
+<p><emphasis>facil - легкий, нетрудный </emphasis></p>
+<p><emphasis>inteligente - интересный </emphasis></p>
+<p><emphasis>interior - внутренний </emphasis></p>
+<p><emphasis>peligroso — опасно, опасный</emphasis></p>
+<p><emphasis>casado (-a) — женатый, замужняя</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<section>
+<title>
+<p>Характеристики людей</p>
+</title>
+<empty-line/>
+<p><emphasis>atractive — beautiful</emphasis></p>
+<p><emphasis>grande — big</emphasis></p>
+<p><emphasis>gordo — fat</emphasis></p>
+<p><emphasis>joven — young</emphasis></p>
+<p><emphasis>bonito — beautiful</emphasis></p>
+<p><emphasis>feo — уродливый</emphasis></p>
+<p><emphasis>delgado — tall</emphasis></p>
+<p><emphasis>pequeño — small</emphasis></p>
+<p><emphasis>viejo — old</emphasis></p>
+<p><emphasis>casado — married</emphasis></p>
+<p><emphasis>bueno — good</emphasis></p>
+<p><emphasis>calmo — спокойный</emphasis></p>
+<p><emphasis>aburrido — скучный</emphasis></p>
+<p><emphasis>estúpido — тупой</emphasis></p>
+<p><emphasis>inteligente — smart</emphasis></p>
+<p><emphasis>pobre — poor</emphasis></p>
+<p><emphasis>rico — rich</emphasis></p>
+<p><emphasis>feliz — happy</emphasis></p>
+<empty-line/>
+<empty-line/>
+</section>
+</section>
+<section>
+<title>
+<p>Цвета</p>
+</title>
+<empty-line/>
+<p><emphasis>amarillo - желтый </emphasis></p>
+<p><emphasis>blanco - белый </emphasis></p>
+<p><emphasis>verde - зеленый </emphasis></p>
+<p><emphasis>azul - синий, голубой </emphasis></p>
+<p><emphasis>gris - серый </emphasis></p>
+<p><emphasis>marron - коричневый </emphasis></p>
+<p><emphasis>negro - черный </emphasis></p>
+<empty-line/>
+</section>
+</section>
+<section>
+<title>
+<p>Глаголы</p>
+</title>
+<empty-line/>
+<p><emphasis>estar — to be</emphasis></p>
+<p><emphasis>buscar — to find</emphasis></p>
+<p><emphasis>escuchar — to hear</emphasis></p>
+<p><emphasis>mirar — to look</emphasis></p>
+<p><emphasis>encontrar — найти</emphasis></p>
+<p><emphasis>dar — to give</emphasis></p>
+<p><emphasis>hacer — to do</emphasis></p>
+<p><emphasis>preguntar — to ask</emphasis></p>
+<p><emphasis>dormir — to sleep</emphasis></p>
+<p><emphasis>mandar — to send</emphasis></p>
+<p><emphasis>cerrar — to close</emphasis></p>
+<p><emphasis>tomar — to take</emphasis></p>
+<p><emphasis>intertar — to try</emphasis></p>
+<p><emphasis>recibir — to recieve</emphasis></p>
+<p><emphasis>arder — to flame</emphasis></p>
+<p><emphasis>sentarse — to seet</emphasis></p>
+<p><emphasis>golpear — to beat</emphasis></p>
+<p><emphasis>ver — to see</emphasis></p>
+<p><emphasis>pertenecer — to belong</emphasis></p>
+<p><emphasis>elegir — to choose</emphasis></p>
+<p><emphasis>ofrecer — to let</emphasis></p>
+<p><emphasis>ocultar — to hide</emphasis></p>
+<p><emphasis>utilizar — to use</emphasis></p>
+<p><emphasis>responder — to reply</emphasis></p>
+<p><emphasis>leer — to read</emphasis></p>
+<p><emphasis>olvidar — to forget</emphasis></p>
+<p><emphasis>salir — to leave</emphasis></p>
+<p><emphasis>comenzar — to begin</emphasis></p>
+<p><emphasis>entender — to understand</emphasis></p>
+<p><emphasis>esperar — to hope</emphasis></p>
+<p><emphasis>pensar — to think</emphasis></p>
+<p><emphasis>esperar — to wait</emphasis></p>
+<p><emphasis>óir ' - to hear</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p><emphasis>abre - открывает</emphasis></p>
+<p><emphasis>come - ест  </emphasis></p>
+<p><emphasis>escribe - пишет  </emphasis></p>
+<p><emphasis>fuma - курит  </emphasis></p>
+<p><emphasis>habla - говорит </emphasis></p>
+<p><emphasis>lee - читает  </emphasis></p>
+<p><emphasis>mete - en кладет в </emphasis></p>
+<p><emphasis>mira - смотрит  </emphasis></p>
+<p><emphasis>saca - достает </emphasis></p>
+<p><emphasis>tomar - берет </emphasis></p>
+<p><emphasis>comprar - покупает </emphasis></p>
+<p><emphasis>entra en - входит в </emphasis></p>
+<p><emphasis>echa - бросает, опускает </emphasis></p>
+<p><emphasis>pesea por - гуляет по </emphasis></p>
+<p><emphasis>pone - кладет </emphasis></p>
+<p><emphasis>va - идет, едет </emphasis></p>
+<p><emphasis>viva - живет </emphasis></p>
+<p><emphasis>sale - выходит </emphasis></p>
+<p><emphasis>asisir - присутсвовать </emphasis></p>
+<p><emphasis>comprender - понимать </emphasis></p>
+<p><emphasis>contestar - отвечать </emphasis></p>
+<p><emphasis>celebrar - праздовать </emphasis></p>
+<p><emphasis>escuchar - слушать </emphasis></p>
+<p><emphasis>faltar - отсутсвовать </emphasis></p>
+<p><emphasis>estudiar — учиться</emphasis></p>
+<p><emphasis>aprender — изучать</emphasis></p>
+<p><emphasis>subir — подниматься, взбираться</emphasis></p>
+<p><emphasis>dice - говорит </emphasis></p>
+<p><emphasis>llegar - приходить, прибывать </emphasis></p>
+<p><emphasis>preguntar - спрашивать </emphasis></p>
+<p><emphasis>saludar - приветствовать </emphasis></p>
+<p><emphasis>terminar - заканчивать, оканчиваться </emphasis></p>
+<p><emphasis>salir - выходить </emphasis></p>
+<p><emphasis>trabahar - работать </emphasis></p>
+<p><emphasis>cantar - петь</emphasis></p>
+<p><emphasis>contar - рассказывать </emphasis></p>
+<p><emphasis>desayunar - завтракать </emphasis></p>
+<p><emphasis>descansar - отдыхать </emphasis></p>
+<p><emphasis>empezar - начинать(ся) </emphasis></p>
+<p><emphasis>esperar - встречать </emphasis></p>
+<p><emphasis>dominar - владеть ~ muchas lenguas </emphasis></p>
+<p><emphasis>explicar - объяснять </emphasis></p>
+<p><emphasis>invitar - приглашать </emphasis></p>
+<p><emphasis>pensar - думать </emphasis></p>
+<p><emphasis>recibir - получать </emphasis></p>
+<p><emphasis>volver - возвращаться</emphasis></p>
+<p><emphasis>responder - отвечать </emphasis></p>
+<p><emphasis>trabajar - работать </emphasis></p>
+<p><emphasis>visitar — навещать</emphasis></p>
+<p><emphasis>llamar — звать</emphasis></p>
+<p><emphasis>preparar — готовить (еду)</emphasis></p>
+<p><emphasis>invitar - приглашать</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p><emphasis>Местоимения</emphasis></p>
+</title>
+<empty-line/>
+<p><emphasis>yo - я </emphasis></p>
+<p><emphasis>tu - ты </emphasis></p>
+<p><emphasis>el - он </emphasis></p>
+<p><emphasis>ella - она </emphasis></p>
+<p><emphasis>usted - вы </emphasis></p>
+<p><emphasis>nostros, nostras - мы </emphasis></p>
+<p><emphasis>vosotros, vosotras - вы </emphasis></p>
+<p><emphasis>ellos - они (муж) </emphasis></p>
+<p><emphasis>ellas - они (жен) </emphasis></p>
+<p><emphasis>ustedes - вы </emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Наречия</p>
+</title>
+<empty-line/>
+<p><emphasis>aqui - здесь </emphasis></p>
+<p><emphasis>ahora - сейчас  </emphasis></p>
+<p><emphasis>ademas - кроме того </emphasis></p>
+<p><emphasis>bien - хорошо </emphasis></p>
+<p><emphasis>hoy - сегодня </emphasis></p>
+<p><emphasis>luego - затем, потом </emphasis></p>
+<p><emphasis>tambien - также </emphasis></p>
+<p><emphasis>y - и, а </emphasis></p>
+<p><emphasis>ya - также </emphasis></p>
+<p><emphasis>todo - все </emphasis></p>
+<p><emphasis>allí — там</emphasis></p>
+<p><emphasis>pero - но </emphasis></p>
+<p><emphasis>?por que? - почему ? </emphasis></p>
+<p><emphasis>siempre - всегда </emphasis></p>
+<p><emphasis>temprano - рано </emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Предлоги</p>
+</title>
+<empty-line/>
+<p><emphasis>en - в  </emphasis></p>
+<p><emphasis>de - о, об </emphasis></p>
+<p><emphasis>por - за </emphasis></p>
+<p><emphasis>para - для </emphasis></p>
+<p><emphasis>sobre - о </emphasis></p>
+<empty-line/>
+</section>
+</section>
+<section>
+<title>
+<p>Диалоги</p>
+</title>
+<section>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Первый</p>
+</title>
+<empty-line/>
+<p><emphasis>- Ola </emphasis></p>
+<p><emphasis>- Ola </emphasis></p>
+<p><emphasis>- ?Que tal? </emphasis></p>
+<p><emphasis>- Bien, gracias. </emphasis></p>
+<p><emphasis>- Y tu. / Y usted.</emphasis></p>
+<p><emphasis>- Estupendo, gracias. </emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p><emphasis>Greetings (2)</emphasis></p>
+</title>
+<empty-line/>
+<p><emphasis>- Buenos días / Buenas tardes / Buenas noches  </emphasis></p>
+<p><emphasis>- Adios / Hasta luego / Hasta pronto / Hasta mańana </emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p><emphasis>Name (3)</emphasis></p>
+</title>
+<empty-line/>
+<p><emphasis>- ?Como te llama?  / ¿Como se llama usted? </emphasis></p>
+<p><emphasis>- Me llamo ... </emphasis></p>
+<empty-line/>
+<p><emphasis>- ¿De dónde eres? / ¿De dónde es usted? </emphasis></p>
+<p><emphasis>- Soy de españa. </emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p><emphasis>Where are you from (4)</emphasis></p>
+</title>
+<empty-line/>
+<p><emphasis>- ¿Eres de españa?  / ¿Es usted de españa? </emphasis></p>
+<p><emphasis>- Si, soy de españa. </emphasis></p>
+<p><emphasis>- No, no soy de españa. </emphasis></p>
+<empty-line/>
+<p><emphasis>- ¿Donde vives? / ¿Donde vive usted? </emphasis></p>
+<p><emphasis>- Vivo en españa.</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p><emphasis>Family (5)</emphasis></p>
+</title>
+<empty-line/>
+<p>– <emphasis>Hermano / hermana / madre / padre.</emphasis></p>
+<p>– <emphasis>Marido / mujer.</emphasis></p>
+<p>– <emphasis>Hijo / hija.</emphasis></p>
+<p>– <emphasis>Mi marido / mi mujer / … .</emphasis></p>
+<p>– <emphasis>Este es mi harmano / Esta es mi mujer.</emphasis></p>
+<p>– <emphasis>Se llamo Carlos.</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p><emphasis>Family (6)</emphasis></p>
+</title>
+<empty-line/>
+<p>– <emphasis>Tengo una hermana.</emphasis></p>
+<p>– <emphasis>Tengo un padre.</emphasis></p>
+<p>– <emphasis>Tengo dos hermanas.</emphasis></p>
+<p>– <emphasis>Se llamo Horhe.</emphasis></p>
+<p>– <emphasis>Se llaman Horhe y Pablo.</emphasis></p>
+<p>– <emphasis>¿Quién eres?</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p><emphasis>Jobs (7)</emphasis></p>
+</title>
+<empty-line/>
+<p>– <emphasis>Soy professor / Soy professora.</emphasis></p>
+<p>– <emphasis> Енке травахо?  ¿.. qué trabajo?</emphasis></p>
+<p>– <emphasis>Trabajo en una tienda.</emphasis></p>
+<p>– <emphasis>¿Te gusta tu trabajo?  / ¿Le gusta su trabajo?</emphasis></p>
+<p>– <emphasis>Si. Me gusta me trabajo.</emphasis></p>
+<p>– <emphasis>No, no me gesta me trabajo.</emphasis></p>
+<p>– <emphasis>No trabajo.</emphasis></p>
+</section>
+<section>
+<title>
+<p></p>
+<p><emphasis>Likes (8)</emphasis></p>
+</title>
+<empty-line/>
+<p>– <emphasis>Me gusta la musica.  / Me gusto mucha el chocolate.</emphasis></p>
+<p>– <emphasis>¿Te gusta la musica?</emphasis></p>
+<p>– <emphasis>Me encanta la musica.</emphasis></p>
+<p>– <emphasis>Me gusta cantar.</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p><emphasis>Spanish (9)</emphasis></p>
+</title>
+<empty-line/>
+<p id="___DdeLink__2088_1134073764">– <emphasis>¿Hablas usted español?</emphasis></p>
+<p>– <emphasis>Hablo un poco de español.</emphasis></p>
+<p>– <emphasis>¿Trabajos o estudios?</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p><emphasis>Christmas (10)</emphasis></p>
+</title>
+<empty-line/>
+<p>– <emphasis>Feliz Navidad.</emphasis></p>
+<p>– <emphasis>Año nuevo.</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p><emphasis>Languages (11)</emphasis></p>
+</title>
+<empty-line/>
+<p>– <emphasis>Soy ruso.</emphasis></p>
+<p>– <emphasis>¿Hablas español? / ¿Hablas usted español?</emphasis></p>
+<p>– <emphasis>No hablo español.</emphasis></p>
+<p>– <emphasis>Hablo un poco de español.</emphasis></p>
+<p>– <emphasis>¿Hablas inglés? </emphasis></p>
+<p>– <emphasis>Entendo.</emphasis></p>
+<p>– <emphasis>Entendo un poco de español.</emphasis></p>
+<p>– <emphasis>¿Entendes?</emphasis></p>
+<p>– <emphasis>No entendo.</emphasis></p>
+<p>– <emphasis>Lo siento, no estendo.</emphasis></p>
+<p>– <emphasis>Estoy aprenderiendo español.</emphasis></p>
+<p>– <emphasis>¿Puede repetir por favor?</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p><emphasis>Numbers (12)</emphasis></p>
+</title>
+<empty-line/>
+<p>– <emphasis>Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo</emphasis></p>
+<p>– <emphasis>Enero, Febrero, Marzo, Abril, Mayo, Junio, Julio, Agosto, Septimbre, Octubre, Dicembre</emphasis></p>
+<p>– <emphasis>Invierno, Primavera, Verano, Otoño</emphasis></p>
+<p>– <emphasis>El siete de Enero</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p><emphasis>Time (1ext)</emphasis></p>
+</title>
+<empty-line/>
+<p>– <emphasis>¿Qué hora es?</emphasis></p>
+<p>– <emphasis>Es la una.</emphasis></p>
+<p>– <emphasis>Es las dos.</emphasis></p>
+<p>– <emphasis>Es las tres.</emphasis></p>
+<p>– <emphasis>Son las siete y diez (7:10)</emphasis></p>
+<p>– <emphasis>Es la una menos viente (12:40)</emphasis></p>
+<p>– <emphasis>Son las ocho y media. (8:30)</emphasis></p>
+<p>– <emphasis>Son las cinco menos cuatro. (4:45)</emphasis></p>
+<p>– <emphasis>El mediodía / la medianoche</emphasis></p>
+<p>– <emphasis>de la mañana / de la tarde / de la noche (утра, дня, вечера)</emphasis></p>
+<p>– <emphasis>por la mañana / por la tarde / por la noche (утром, днем, вечером)</emphasis></p>
+<p>– <emphasis>En tren sale a las nueve de la mañana.</emphasis></p>
+<p>– <emphasis>Ramón trabaja por la mañana.</emphasis></p>
+<p>– <emphasis>Es temprano / es tarde</emphasis></p>
+<p>– <emphasis>¿A qué hora come usted?</emphasis></p>
+<p>– <emphasis>A la una de la tarde.</emphasis></p>
+<p>– <emphasis>¿Cuántas horas trabajo usted?</emphasis></p>
+<p>– <emphasis>Trabajo ocho horas,</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p><emphasis>Dates (2ext)</emphasis></p>
+</title>
+<empty-line/>
+<p>– <emphasis>¿A cuántos estamos? / ¿Qué fecha es hoy?</emphasis></p>
+<p>– <emphasis>Estamos a siete.  /  Es el siete.</emphasis></p>
+<p>– <emphasis>El primero de mayo.</emphasis></p>
+<p>– <emphasis>El quince de octubre.</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p><emphasis>Places (13-14)</emphasis></p>
+</title>
+<empty-line/>
+<p>– <emphasis>Donde está el museo / el banco / el restuurant(e) / la oficina de turismo</emphasis></p>
+<p>– <emphasis>Por favor, donde está …</emphasis></p>
+<p>– <emphasis>El museo etsá aquí.</emphasis></p>
+<p>– <emphasis>Siga recto / derecha / izquierda</emphasis></p>
+<p>– <emphasis>¿Está lejos?</emphasis></p>
+<p>– <emphasis>¿Está lejos de aqui?</emphasis></p>
+<p>– <emphasis>¿En museo está lejos de aquí?</emphasis></p>
+<p>– <emphasis>¿El banco está cerca de aquí?</emphasis></p>
+</section>
+<section>
+<title>
+<p></p>
+<p></p>
+</title>
+<empty-line/>
+<empty-line/>
+</section>
+</section>
+</body>
+</FictionBook>
