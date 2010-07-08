@@ -7,7 +7,7 @@
 <first-name/>
 <last-name/>
 </author>
-<book-title>español</book-title>
+<book-title>spanish</book-title>
 <lang>ru</lang>
 </title-info>
 <document-info>
@@ -16,8 +16,8 @@
 <last-name/>
 </author>
 <program-used>ExportToFB21</program-used>
-<date value="2010-05-27">27.05.2010</date>
-<id>OOoFBTools-2010-5-27-15-49-48-994</id>
+<date value="2010-07-08">08.07.2010</date>
+<id>OOoFBTools-2010-7-8-18-23-33-1297</id>
 <version>1.0</version>
 </document-info>
 </description>
@@ -313,15 +313,15 @@
 <p>– <emphasis>un libro cubano   /  unos libros cubanos </emphasis></p>
 <p>– <emphasis>el coche blanc<strong>o</strong> / la casa blanc<strong>a</strong></emphasis></p>
 <p>– <emphasis>los coches blanc<strong>os</strong> / las casas blanc<strong>as</strong></emphasis></p>
-<p><emphasis><strong></strong></emphasis></p>
+<p></p>
 <p>• Прилагательное, оканчивающиеся на (-е) и на согласную имеют одинаковую форму в мужском и среднем роде:</p>
 <empty-line/>
 <p>– <emphasis>el lapiz verd<strong>e</strong> / la pared verd<strong>e</strong></emphasis></p>
 <p>– <emphasis>los lapices verd<strong>es</strong> / las paredes verd<strong>es</strong></emphasis></p>
 <p>• Прилагательное, оканчивающиеся на (-n) или (-or) иногда являются исключениями:</p>
-<p><emphasis><strong></strong></emphasis></p>
+<p></p>
 <p>– <emphasis>trabajad<strong>or</strong> / trabajad<strong>ora</strong></emphasis></p>
-<p><emphasis><strong></strong></emphasis></p>
+<p></p>
 <p><strong>Прилагательные grande, mucho </strong></p>
 <empty-line/>
 <p>grande может стоять перед существительным, но тераяет de: </p>
@@ -898,7 +898,7 @@
 <p><strong>сon</strong> — с кем либо</p>
 <empty-line/>
 <p>– <emphasis>Alberto habla con su compañero.</emphasis></p>
-<p><emphasis><strong></strong></emphasis></p>
+<p></p>
 <p><strong>por </strong>- по</p>
 <empty-line/>
 <p>– <emphasis>Salvador pasea por la Avenida de Colón.</emphasis></p>
@@ -1602,6 +1602,78 @@
 </section>
 <section>
 <title>
+<p>Движение и направление</p>
+</title>
+<empty-line/>
+<p><emphasis>caer — падать</emphasis></p>
+<p><emphasis>viajar — путешествовать</emphasis></p>
+<p><emphasis>ir — идти</emphasis></p>
+<p><emphasis>viajar — ехать</emphasis></p>
+<p><emphasis>permanecer — оставаться</emphasis></p>
+<p><emphasis>doblar — поворачиваться</emphasis></p>
+<p><emphasis>un viaje — поездка</emphasis></p>
+<p><emphasis>a la derecha — направо</emphasis></p>
+<p><emphasis>a la izquierda — налево</emphasis></p>
+<p><emphasis>lejos — далеко</emphasis></p>
+<p><emphasis>directo — прямо</emphasis></p>
+<p><emphasis>subir — подниматься</emphasis></p>
+<p><emphasis>bajar — спускаться</emphasis></p>
+<p><emphasis>salir — выходить</emphasis></p>
+<p><emphasis>moverse — двигаться</emphasis></p>
+<p><emphasis>atraversar — пересекать</emphasis></p>
+<p><emphasis>inmóvil — неподвижный</emphasis></p>
+<p><emphasis>levantar — поднимать</emphasis></p>
+<p><emphasis>por dónde? - куда</emphasis></p>
+<p><emphasis>llegar — прибывать</emphasis></p>
+<p><emphasis>entrar — входить</emphasis></p>
+<p><emphasis>regresar — возвращаться</emphasis></p>
+<p><emphasis>venir — приходить</emphasis></p>
+<p><emphasis>para — останавливаться</emphasis></p>
+<p><emphasis>lento — медленный</emphasis></p>
+<p><emphasis>rápido — быстрый</emphasis></p>
+<p><emphasis>una vuelta - поворот</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Еда</p>
+</title>
+<empty-line/>
+<p><emphasis>cerveza — пиво</emphasis></p>
+<p><emphasis>una bebida — напиток</emphasis></p>
+<p><emphasis>café ' - кофе</emphasis></p>
+<p><emphasis>agua — вода</emphasis></p>
+<p><emphasis>leche — молоко</emphasis></p>
+<p><emphasis>té — чай</emphasis></p>
+<p><emphasis>pescado — рыба</emphasis></p>
+<p><emphasis>una taza — чашка</emphasis></p>
+<p><emphasis>una cena — ужин</emphasis></p>
+<p><emphasis>cenar -ужинать</emphasis></p>
+<p><emphasis>un almuerzo — обед</emphasis></p>
+<p><emphasis>un desayuno — завтрак</emphasis></p>
+<p><emphasis>sopa — суп</emphasis></p>
+<p><emphasis>carne de res — говядина</emphasis></p>
+<p><emphasis>pollo — курица</emphasis></p>
+<p><emphasis>cerdo — свинина</emphasis></p>
+<p><emphasis>carne — мясо</emphasis></p>
+<p><emphasis>papas fritas — картофель фри</emphasis></p>
+<p><emphasis>un vaso — стакан</emphasis></p>
+<p><emphasis>verter — наливать</emphasis></p>
+<p><emphasis>un cuchillo — нож</emphasis></p>
+<p><emphasis>cocinar — готовить</emphasis></p>
+<p><emphasis>papa — картофель</emphasis></p>
+<p><emphasis>hongos — грибы</emphasis></p>
+<p><emphasis>un huevo — яйцо</emphasis></p>
+<p><emphasis>pan — хлеб</emphasis></p>
+<p><emphasis>ensalada — салат</emphasis></p>
+<p><emphasis>fruta — фрукт</emphasis></p>
+<p><emphasis>helado — мороженное</emphasis></p>
+<p><emphasis>una manzana — яблоко</emphasis></p>
+<p><emphasis>un plato - тарелка</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
 <p>Дни недели</p>
 <p></p>
 </title>
@@ -2057,6 +2129,43 @@
 <p></p>
 </title>
 <empty-line/>
+</section>
+</section>
+<section>
+<title>
+<p>Texts</p>
+</title>
+<section>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Mi familia</p>
+</title>
+<empty-line/>
+<p>Mi familia no es muy grande ni muy pequeña.  Somos cinco personas - mi abuela, mis padres, mi hermano Juan y yo.</p>
+<p>Juan es mi hermano mayor, tiene ya veinte años, estudia económicas.  No le gusta mucho leer, prefiere escuchar música. </p>
+<p>Mi padre tiene cuarenta y ocho años, trabaja en una empresa comercial.  Vuelve a casa muy tarde y muy cansado y en seguida se pone a ver las telenoticias.</p>
+<p>Mi madre se casó muy joven, tiene solo cuarenta años.  Es profesora, por eso tiene toda la tarde libre. Bueno, libre no. Prepara la comida  para toda la familia, lee, corrige los ejercicios. También sabe tejer.  Es muy simpática y siempre nos defiende a mí y a mi hermano.</p>
+<p>Mi abuela ya es una viejecita. En octubre cumpla ochenta años. El año pasado se nos ha muerto el abuelo. Murió mientras estaba durmiendo. Dicen que es una muerte muy buena.</p>
+<p>Tengo también 2 primos. Uno se trasladó a Alemánia con su familia y el otro vive en Moscú. </p>
+<p>En cambio mi tío es un tipo estupendo. Siempre jugaba con nosotros y nos regalaba cosas.</p>
+<p>Por desgracia se casó con una mujer bastante antipática. Tiene mucho genio y se enfada a menudo. Ahora están cuidando a su bebe. Tiene solo 3 meses y ya es muy mono. </p>
+<p>Ah, me olvidé de nuestro perro! Es un pastor escocés, también es un miembro de la familia. Su amo es Juan. </p>
+<p>Como ya somos mayores, pocas veces nos reunimos todos, pero solemos pasar las vacaciones juntos en Crimea o en algun otro balneario.</p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Autobiografía</p>
+</title>
+<empty-line/>
+<p>Me llamo Alejandro Makovski, soy de Moscú. Tengo dieciseis años.</p>
+<empty-line/>
+<p>Llevo cinco años estudiando español. Acabo de terminar el bachillerato en el colegio cincuenta y siete. Ahora pienso entrar en la facultad de filología de la Universidad estatal de Moscú.  Quisiera aprender otros idiomas porque me hace ilusión trabajar de traductor. Bueno, de intérprete también. Cuando aprendes una lengua extranjera, conoces también la cultura de ese país, le parece?   Además es muy práctico.</p>
+<p>El español siempre me ha gustado aunque no he estado en España. Conozco a varios españoles y practico español con ellos. Y naturalmente mi sueño es ir a visitar España.</p>
+<p>En cuanto a mis preferencias, cambian rapidamente. Antes me gustaba mucho la música “rock”,  pero ahora prefiero escuchar algo más tranquilo. Música clásica por ejemplo. Yo leo bastante, autores hispanos también. Sobre todo me gusta “Cien años de soledad” de Gabriél García Márquez. Algun día quisiera leer esta obra en original.</p>
+<p id="___DdeLink__3598_1875746096">Cerca de nuestra casa hay una piscina a la que voy todos los viernes. Por ahora no tengo planes para el futuro. Todavía soy muy joven. Lo más importante para mí es seguir estudiando.</p>
 <empty-line/>
 </section>
 </section>
