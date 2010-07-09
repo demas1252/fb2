@@ -2,7 +2,7 @@
 <FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
 <description>
 <title-info>
-<genre>sf_action</genre>
+<genre>sf_history</genre>
 <author>
 <first-name/>
 <last-name/>
@@ -16,8 +16,8 @@
 <last-name/>
 </author>
 <program-used>ExportToFB21</program-used>
-<date value="2010-07-08">08.07.2010</date>
-<id>OOoFBTools-2010-7-8-18-23-33-1297</id>
+<date value="2010-07-09">09.07.2010</date>
+<id>OOoFBTools-2010-7-9-16-36-44-531</id>
 <version>1.0</version>
 </document-info>
 </description>
@@ -257,7 +257,7 @@
 <p>– <emphasis>Un amigo mío.  (Мой друг)</emphasis></p>
 <p>– <emphasis>Una idea suya.  (Его идея).</emphasis></p>
 <empty-line/>
-<p>29</p>
+<p>31</p>
 </section>
 <section>
 <title>
@@ -358,7 +358,7 @@
 <p><emphasis>vuestros(-as) — ваш (друж)</emphasis></p>
 <p><emphasis>sus — их, Ваш (вежл)</emphasis></p>
 <empty-line/>
-<p>29</p>
+<p>30</p>
 <empty-line/>
 </section>
 </section>
@@ -527,7 +527,7 @@
 <p>– <emphasis>Voy a comprar un periódico.   (Я собираюсь купить газету)</emphasis></p>
 <p>– <emphasis>Vomos a comprar los billetes.   (Давайте купим билеты / Мы купим билеты)</emphasis></p>
 <empty-line/>
-<p><emphasis>30</emphasis></p>
+<p><emphasis>32</emphasis></p>
 </section>
 <section>
 <title>
@@ -687,12 +687,50 @@
 </section>
 <section>
 <title>
-<p>Pretérito Perfecto de Indicativo</p>
+<p>Pretérito Perfecto simple de Indicativo</p>
 </title>
 <empty-line/>
-<p>Уже совершено на момент речи.</p>
+<p>Употребляется:  законченное действие в прошлом</p>
 <empty-line/>
-<p>haber + причастие прошедшего времени</p>
+<p>• для выражения действия, совершившегося в уже закончившейся отрезок времени:</p>
+<p>• <emphasis>Hoy<strong> he llegado</strong> a las nueve a la officina. / <strong>Ayer llegué</strong> a las nueve a la officina.</emphasis></p>
+<p>• Действия, совершившегося в прошлом и ограниченном отрезком кремени:</p>
+<p>• <emphasis>Mi padre tomó parte en la Gran Guerra Partia. (Мой отец принял/принимал участие в ВОВ)</emphasis></p>
+<empty-line/>
+<p>Первое спряжение:</p>
+<empty-line/>
+<p><emphasis>trabaj-é</emphasis></p>
+<p><emphasis>trabaj-aste</emphasis></p>
+<p><emphasis>trabaj-ó</emphasis></p>
+<p><emphasis>trabaj-amos</emphasis></p>
+<p><emphasis>trabaj-asteis</emphasis></p>
+<p><emphasis>trabaj-aron</emphasis></p>
+<empty-line/>
+<p><emphasis>Второе спряжение:</emphasis></p>
+<empty-line/>
+<p><emphasis>com-í</emphasis></p>
+<p><emphasis>com-iste</emphasis></p>
+<p><emphasis>com-ío</emphasis></p>
+<p><emphasis>com-imos</emphasis></p>
+<p><emphasis>com-isteis</emphasis></p>
+<p><emphasis>com-ieron</emphasis></p>
+<empty-line/>
+<p><emphasis>Третье спряжение:</emphasis></p>
+<empty-line/>
+<p><emphasis>viv-í</emphasis></p>
+<p><emphasis>viv-iste</emphasis></p>
+<p><emphasis>viv-ío</emphasis></p>
+<p><emphasis>viv-imos</emphasis></p>
+<p><emphasis>viv-isteis</emphasis></p>
+<p><emphasis>viv-ieron</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p>Pretérito Perfecto compuesto de Indicativo</p>
+</title>
+<empty-line/>
+<p><strong>haber + причастие прошедшего времени</strong></p>
 <empty-line/>
 <p>– <emphasis>he comprado</emphasis></p>
 <p>– <emphasis>has comprado</emphasis></p>
@@ -701,46 +739,53 @@
 <p>– <emphasis>habéis comprado</emphasis></p>
 <p>– <emphasis>han comprado</emphasis></p>
 <empty-line/>
-<p>– <emphasis>Hemos viajado todo el día.  (Мы проездили весь день)</emphasis></p>
+<p>Исключения: <emphasis>abrir-abierto, decir-dicho,escribir-escrito, hacer-hecho, poner — puesto, ver — visto, volver — vuelto.</emphasis></p>
 <empty-line/>
-<p><emphasis>31</emphasis></p>
+<p>Используется:</p>
+<p>• совершившееся непосредственно перед моментом речи:</p>
+<p>• <emphasis>¿Qué has preguantado?  - Что ты спросил?</emphasis></p>
+<p>• <emphasis>He preguntado: «Qué hora es?» -  Я спросил: «Который час»</emphasis></p>
+<p>• в незаконченный до момента времени отрезок времени:</p>
+<p>• <emphasis>Hoy he comido en casa. - Сегодня обедал дома.</emphasis></p>
+<p>• Когда интересует на момент времени, а результат:</p>
+<p>• <emphasis>¿Ha hablado usted con Andrés? - Вы говорили с Андерсом?</emphasis></p>
+<empty-line/>
+<p><emphasis>32</emphasis></p>
 <empty-line/>
 </section>
 <section>
 <title>
-<p>Imperfecto de Indicativo</p>
+<p>Preterio imperfecto de Indicativo</p>
 </title>
 <empty-line/>
 <p>Прошедшее незаконченное время. Используется, когда мы говорим о привычных (повторяющихся) действиях в прошлом, не имеющих определенных временных границ.</p>
 <empty-line/>
 <p><emphasis>hablar</emphasis></p>
-<p><emphasis>hablaba</emphasis></p>
-<p><emphasis>hablabas</emphasis></p>
-<p><emphasis>hablámos</emphasis></p>
-<p><emphasis>hablabais</emphasis></p>
-<p><emphasis>hablaban</emphasis></p>
-<empty-line/>
+<p><emphasis>habl-aba</emphasis></p>
+<p><emphasis>habl-abas</emphasis></p>
+<p><emphasis>habl-ámos</emphasis></p>
+<p><emphasis>habl-abais</emphasis></p>
+<p><emphasis>habl-aban</emphasis></p>
 <empty-line/>
 <p><emphasis>comer</emphasis></p>
-<p><emphasis>comía</emphasis></p>
-<p><emphasis>comías</emphasis></p>
-<p><emphasis>comía</emphasis></p>
-<p><emphasis>comíamos</emphasis></p>
-<p><emphasis>comíais</emphasis></p>
-<p><emphasis>comían</emphasis></p>
-<empty-line/>
+<p><emphasis>com-ía</emphasis></p>
+<p><emphasis>com-ías</emphasis></p>
+<p><emphasis>com-ía</emphasis></p>
+<p><emphasis>com-íamos</emphasis></p>
+<p><emphasis>com-íais</emphasis></p>
+<p><emphasis>com-ían</emphasis></p>
 <empty-line/>
 <p><emphasis>vivir</emphasis></p>
-<p><emphasis>vivía</emphasis></p>
-<p><emphasis>vivías</emphasis></p>
-<p><emphasis>vivía</emphasis></p>
-<p><emphasis>vivíamos</emphasis></p>
-<p><emphasis>vivíais</emphasis></p>
-<p><emphasis>vivían</emphasis></p>
+<p><emphasis>viv-ía</emphasis></p>
+<p><emphasis>viv-ías</emphasis></p>
+<p><emphasis>viv-ía</emphasis></p>
+<p><emphasis>viv-íamos</emphasis></p>
+<p><emphasis>viv-íais</emphasis></p>
+<p><emphasis>viv-ían</emphasis></p>
 <empty-line/>
 <p>Примеры:</p>
 <empty-line/>
-<p>– <emphasis>Carlos compabla el periódico todos los días.  (Карлос обычно покупал газеты каждый день)</emphasis></p>
+<p>• <emphasis>Carlos compabla el periódico todos los días.  (Карлос обычно покупал газеты каждый день)</emphasis></p>
 <empty-line/>
 <p>Только три глагола изменяются не по общим правилам:  <strong>ser,ir, ver</strong>.</p>
 <empty-line/>
@@ -771,7 +816,18 @@
 <empty-line/>
 <p>Пример:</p>
 <empty-line/>
-<p><emphasis>- Ibamos a España una vaz al año.  (Мы привыкли ездить в Испанию раз в год)</emphasis></p>
+<p>– <emphasis>Ibamos a España una vaz al año.  (Мы привыкли ездить в Испанию раз в год)</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p><emphasis>acabar de + infinitivo</emphasis></p>
+</title>
+<empty-line/>
+<p>Только что закончившееся время:</p>
+<empty-line/>
+<p>• <emphasis>Acabo de llegar.  Я <strong>только что</strong> приехал.</emphasis></p>
+<empty-line/>
 <empty-line/>
 </section>
 <section>
@@ -783,6 +839,21 @@
 <empty-line/>
 <p>– <emphasis><strong>voy a ver</strong> la presenta</emphasis></p>
 <p>– <emphasis><strong>vamos a trabajar</strong> todo el día.</emphasis></p>
+<empty-line/>
+</section>
+<section>
+<title>
+<p><emphasis>Futuro de indicative</emphasis></p>
+</title>
+<empty-line/>
+<p>Действие в будущем.  Образуется независимо от спряжения по следующему закону:</p>
+<empty-line/>
+<p><emphasis>trabajar — é</emphasis></p>
+<p><emphasis>trabajar — ás</emphasis></p>
+<p><emphasis>trabajar — á</emphasis></p>
+<p><emphasis>trabajar — emos</emphasis></p>
+<p><emphasis>trabajar — éis</emphasis></p>
+<p><emphasis>trabajar — án</emphasis></p>
 <empty-line/>
 </section>
 <section>
@@ -855,7 +926,7 @@
 <p>1000: mil</p>
 <p>2000:  dos mil</p>
 <empty-line/>
-<p>29</p>
+<p>31</p>
 </section>
 <section>
 <title>
@@ -877,7 +948,7 @@
 <empty-line/>
 <p>– <emphasis>El primer hombre (Первый человек)</emphasis></p>
 <empty-line/>
-<p>30</p>
+<p>31</p>
 <empty-line/>
 </section>
 </section>
@@ -1812,37 +1883,13 @@
 <p><emphasis>esperar — to wait</emphasis></p>
 <p><emphasis>óir ' - to hear</emphasis></p>
 <empty-line/>
-<empty-line/>
-<p><emphasis>abre - открывает</emphasis></p>
-<p><emphasis>come - ест  </emphasis></p>
-<p><emphasis>escribe - пишет  </emphasis></p>
-<p><emphasis>fuma - курит  </emphasis></p>
-<p><emphasis>habla - говорит </emphasis></p>
-<p><emphasis>lee - читает  </emphasis></p>
-<p><emphasis>mete - en кладет в </emphasis></p>
-<p><emphasis>mira - смотрит  </emphasis></p>
-<p><emphasis>saca - достает </emphasis></p>
-<p><emphasis>tomar - берет </emphasis></p>
-<p><emphasis>comprar - покупает </emphasis></p>
-<p><emphasis>entra en - входит в </emphasis></p>
-<p><emphasis>echa - бросает, опускает </emphasis></p>
-<p><emphasis>pesea por - гуляет по </emphasis></p>
-<p><emphasis>pone - кладет </emphasis></p>
-<p><emphasis>va - идет, едет </emphasis></p>
-<p><emphasis>viva - живет </emphasis></p>
-<p><emphasis>sale - выходит </emphasis></p>
+<p><emphasis>abrir - открывать</emphasis></p>
+<p><emphasis>leer — читать</emphasis></p>
+<p><emphasis>echar — бросать, швырять</emphasis></p>
 <p><emphasis>asisir - присутсвовать </emphasis></p>
-<p><emphasis>comprender - понимать </emphasis></p>
-<p><emphasis>contestar - отвечать </emphasis></p>
-<p><emphasis>celebrar - праздовать </emphasis></p>
-<p><emphasis>escuchar - слушать </emphasis></p>
 <p><emphasis>faltar - отсутсвовать </emphasis></p>
+<p><emphasis>celebrar - праздовать </emphasis></p>
 <p><emphasis>estudiar — учиться</emphasis></p>
-<p><emphasis>aprender — изучать</emphasis></p>
-<p><emphasis>subir — подниматься, взбираться</emphasis></p>
-<p><emphasis>dice - говорит </emphasis></p>
-<p><emphasis>llegar - приходить, прибывать </emphasis></p>
-<p><emphasis>preguntar - спрашивать </emphasis></p>
 <p><emphasis>saludar - приветствовать </emphasis></p>
 <p><emphasis>terminar - заканчивать, оканчиваться </emphasis></p>
 <p><emphasis>salir - выходить </emphasis></p>
